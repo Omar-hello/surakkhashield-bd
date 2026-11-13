@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SurakkhaShield BD (সুরক্ষা শিল্ড বিডি) - All-in-One Cyber, Banking & Legal Anti-Fraud App</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <meta name="theme-color" content="#059669">
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'Hind Siliguri', 'sans-serif'],
+                        mono: ['JetBrains Mono', 'monospace'],
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body { font-family: 'Inter', 'Hind Siliguri', sans-serif; }
+        @keyframes pulseRing {
+            0% { transform: scale(0.95); opacity: 0.8; }
+            50% { transform: scale(1.08); opacity: 0.3; }
+            100% { transform: scale(0.95); opacity: 0.8; }
+        }
+        .pulse-ring { animation: pulseRing 1.8s infinite ease-in-out; }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100 min-h-screen transition-colors duration-200">
+
+    <!-- Toast Notification -->
+    <div id="toast-container" class="fixed top-4 right-4 left-4 sm:left-auto sm:w-96 z-50 flex flex-col gap-2 pointer-events-none"></div>
+
+    <!-- Incoming Call Modal -->
+    <div id="incoming-call-modal" class="fixed inset-0 z-50 hidden bg-slate-950/90 backdrop-blur-md flex items-center justify-center p-4">
+        <div id="call-card" class="w-full max-w-md rounded-3xl p-6 shadow-2xl border-2 bg-slate-900 text-white">
+            <div class="flex items-center justify-between mb-6">
+                <span id="call-status-pill" class="px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider flex items-center gap-1.5">
+                    <i class="fa-solid fa-shield-halved"></i>
+                    <span id="call-status-label">CHECKING CALLER...</span>
+                </span>
+                <button type="button" onclick="closeCallModal()" class="w-9 h-9 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center text-slate-300">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+            <div class="flex flex-col items-center text-center my-4">
+                <div class="relative mb-4">
+                    <div id="call-pulse-ring" class="absolute inset-0 rounded-full pulse-ring"></div>
+                    <div id="call-avatar" class="relative w-24 h-24 rounded-full flex items-center justify-center text-4xl shadow-xl">
+                        <i class="fa-solid fa-phone-volume"></i>
+                    </div>
+                </div>
+                <p class="text-xs uppercase tracking-widest text-slate-400 mb-1" data-i18n="incomingCallLabel">Incoming Call Alert</p>
+                <h2 id="call-caller-name" class="text-2xl font-extrabold tracking-tight">Unknown Caller</h2>
+                <p id="call-caller-number" class="text-lg font-mono text-slate-300 mt-1">+880 17XX-XXXXXX</p>
+            </div>
+            <div id="call-analysis-box" class="rounded-2xl p-4 my-5 text-sm border">
+                <div class="flex items-start gap-3">
+                    <i id="call-analysis-icon" class="fa-solid fa-triangle-exclamation text-xl mt-0.5"></i>
+                    <div>
+                        <h4 id="call-analysis-title" class="font-bold text-base mb-1">Security Warning</h4>
+                        <p id="call-analysis-desc" class="leading-relaxed opacity-90"></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid grid-cols-2 gap-3 mt-6">
+                <button type="button" onclick="blockSimulatedCaller()" class="py-3.5 px-4 rounded-2xl bg-rose-600 hover:bg-rose-500 text-white font-bold flex items-center justify-center gap-2">
+                    <i class="fa-solid fa-ban"></i>
+                    <span data-i18n="blockRejectBtn">Block & Reject</span>
+                </button>
+                <button type="button" onclick="closeCallModal()" class="py-3.5 px-4 rounded-2xl bg-slate-800 hover:bg-slate-700 text-slate-200 font-semibold flex items-center justify-center gap-2 border border-slate-700">
+                    <i class="fa-solid fa-check"></i>
+                    <span data-i18n="dismissBtn">Dismiss</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="sticky top-0 z-40 bg-white/90 dark:bg-slate-900/90 backdrop-blur-lg border-b border-slate-200 dark:border-slate-800">
+        <div class="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between gap-2">
+            <div class="flex items-center gap-3">
+                <div class="w-10 h-10 rounded-2xl bg-gradient-to-br from-emerald-500 to-teal-700 flex items-center justify-center text-white shadow-lg">
+                    <i class="fa-solid fa-shield-halved text-xl"></i>
+                </div>
+                <div>
+                    <div class="flex items-center gap-2">
+                        <h1 class="font-extrabold text-lg sm:text-xl tracking-tight leading-none">
+                            Surakkha<span class="text-emerald-500">Shield</span> <span class="text-xs font-black text-amber-500">BD</span>
+                        </h1>
+                        <span class="px-2 py-0.5 text-[10px] font-bold rounded-full bg-emerald-500/15 text-emerald-500 border border-emerald-500/20">ALL-IN-ONE</span>
+                    </div>
+                    <p class="text-xs text-slate-500 dark:text-slate-400 mt-0.5" data-i18n="headerSubtitle">
+                        সুরক্ষা শিল্ড বিডি • Banking, MFS, AI Mamla & Cyber Guard
+                    </p>
+                </div>
+            </div>
+            <div class="flex items-center gap-2">
+                <button type="button" id="lang-toggle-btn" onclick="toggleLanguage()" class="px-3 py-2 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 text-xs sm:text-sm font-bold border border-slate-200 dark:border-slate-700 flex items-center gap-1.5">
+                    <i class="fa-solid fa-language text-emerald-500 text-base"></i>
+                    <span id="lang-label">বাংলা</span>
+                </button>
+                <button type="button" onclick="toggleTheme()" class="w-10 h-10 rounded-xl bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 flex items-center justify-center text-slate-600 dark:text-amber-400">
+                    <i id="theme-icon" class="fa-solid fa-sun"></i>
+                </button>
+            </div>
+        </div>
+
+        <nav class="max-w-5xl mx-auto px-4 pb-2 overflow-x-auto">
+            <div class="grid grid-cols-4 gap-1.5 sm:gap-2 min-w-[340px]">
+                <button type="button" onclick="switchTab('sms')" id="tab-btn-sms" class="py-2.5 px-2 sm:px-4 rounded-xl text-xs sm:text-sm font-bold flex items-center justify-center gap-2 bg-emerald-600 text-white shadow-md">
+                    <i class="fa-solid fa-comment-sms"></i>
+                    <span data-i18n="tabSms">SMS Shield</span>
+                </button>
+                <button type="button" onclick="switchTab('call')" id="tab-btn-call" class="py-2.5 px-2 sm:px-4 rounded-xl text-xs sm:text-sm font-bold flex items-center justify-center gap-2 bg-slate-100 dark:bg-slate-800/80 text-slate-600 dark:text-slate-300">
+                    <i class="fa-solid fa-phone-slash"></i>
+                    <span data-i18n="tabCall">Call & Contacts</span>
+                </button>
+                <button type="button" onclick="switchTab('helpline')" id="tab-btn-helpline" class="py-2.5 px-2 sm:px-4 rounded-xl text-xs sm:text-sm font-bold flex items-center justify-center gap-2 bg-slate-100 dark:bg-slate-800/80 text-slate-600 dark:text-slate-300">
+                    <i class="fa-solid fa-book-shield"></i>
+                    <span data-i18n="tabHelpline">Scam Guide & 999</span>
+                </button>
+                <button type="button" onclick="switchTab('code')" id="tab-btn-code" class="py-2.5 px-2 sm:px-4 rounded-xl text-xs sm:text-sm font-bold flex items-center justify-center gap-2 bg-slate-100 dark:bg-slate-800/80 text-slate-600 dark:text-slate-300">
+                    <i class="fa-solid fa-code"></i>
+                    <span data-i18n="tabCode">Full App Code</span>
+                </button>
+            </div>
+        </nav>
+    </header>
+
+    <main class="max-w-5xl mx-auto px-4 py-6 pb-20">
+        <!-- Python Backend Connection Banner -->
+        <div class="mb-6 rounded-2xl bg-gradient-to-r from-slate-900 via-slate-800 to-emerald-950 text-white p-4 border border-slate-700/80 shadow-lg flex flex-col gap-3">
+            <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+                <div class="flex items-center gap-3.5">
+                    <div class="w-11 h-11 rounded-2xl bg-emerald-500/20 border border-emerald-400/30 flex items-center justify-center text-emerald-400 shrink-0">
+                        <i class="fa-solid fa-radar text-xl"></i>
+                    </div>
+                    <div>
+                        <h2 class="font-bold text-sm sm:text-base" data-i18n="shieldActiveTitle">Active Bangladesh All-in-One Cyber & Financial Shield</h2>
+                        <p class="text-xs text-slate-300 mt-0.5" data-i18n="shieldActiveDesc">
+                            Guarding bKash, Nagad, Rocket, Upay, CellFin, NexusPay, iBanking, Fake AI Court/Police Mamla, BTRC/NID & APK scams.
+                        </p>
+                    </div>
+                </div>
+                <div class="flex items-center gap-2 text-xs font-mono bg-black/30 px-3 py-2 rounded-xl border border-white/10 shrink-0">
+                    <span class="text-slate-400" data-i18n="threatsBlockedLabel">Scams Detected:</span>
+                    <span id="scam-counter" class="text-emerald-400 font-bold text-sm">0</span>
+                </div>
+            </div>
+            <div class="pt-3 border-t border-white/10 flex flex-col sm:flex-row sm:items-center justify-between gap-2 text-xs">
+                <div class="flex items-center gap-2">
+                    <span id="backend-status-dot" class="w-2.5 h-2.5 rounded-full bg-amber-400"></span>
+                    <span id="backend-status-text" class="font-semibold text-slate-200">Checking Python Server...</span>
+                </div>
+                <div class="flex items-center gap-2">
+                    <input id="python-api-url" type="text" value="" placeholder="Auto (Same Origin)"
+                        class="px-2.5 py-1 rounded-lg bg-black/40 border border-white/15 text-slate-200 font-mono text-[11px] w-48 focus:outline-none">
+                    <button type="button" onclick="checkPythonBackendHealth()" class="px-3 py-1 rounded-lg bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-[11px]">
+                        Connect
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB 1: SMS SCANNER -->
+        <section id="section-sms" class="space-y-6">
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+                <div class="lg:col-span-7 space-y-4">
+                    <div class="bg-white dark:bg-slate-900 rounded-3xl p-5 sm:p-6 border border-slate-200 dark:border-slate-800 shadow-sm">
+                        <h3 class="text-lg font-extrabold flex items-center gap-2 mb-1">
+                            <i class="fa-solid fa-magnifying-glass-chart text-emerald-500"></i>
+                            <span data-i18n="smsScannerHeading">SMS & Message Fraud Scanner</span>
+                        </h3>
+                        <p class="text-xs text-slate-500 dark:text-slate-400 mb-4" data-i18n="smsScannerSub">
+                            Supports Bangla (বাংলা), English & Banglish SMS / WhatsApp / Messenger texts
+                        </p>
+
+                        <div class="mb-3">
+                            <label class="block text-xs font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 mb-1.5" data-i18n="senderIdLabel">
+                                Sender Name or Phone Number (Optional)
+                            </label>
+                            <input id="sms-sender-input" type="text" placeholder="e.g., bKash, NAGAD, GP, 16247, or +8801712345678"
+                                class="w-full px-4 py-2.5 rounded-xl bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-sm focus:outline-none focus:ring-2 focus:ring-emerald-500">
+                        </div>
+
+                        <div class="mb-4">
+                            <div class="flex items-center justify-between mb-1.5">
+                                <label class="block text-xs font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400" data-i18n="messageBodyLabel">
+                                    Paste Suspicious SMS or Message
+                                </label>
+                                <button type="button" onclick="clearSmsForm()" class="text-xs text-slate-400 hover:text-rose-500 font-medium">
+                                    <i class="fa-solid fa-eraser mr-1"></i><span data-i18n="clearBtn">Clear</span>
+                                </button>
+                            </div>
+                            <textarea id="sms-body-input" rows="5"
+                                placeholder="এখানে সন্দেহজনক মেসেজ পেস্ট করুন বা নিচের স্যাম্পল বাটনে ক্লিক করে পরীক্ষা করুন..."
+                                class="w-full p-3.5 rounded-2xl bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-sm leading-relaxed focus:outline-none focus:ring-2 focus:ring-emerald-500"></textarea>
+                        </div>
+
+                        <button type="button" id="scan-submit-btn" onclick="analyzeSmsMessage()" class="w-full py-3.5 px-6 rounded-2xl bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-bold text-sm sm:text-base shadow-lg flex items-center justify-center gap-2.5 cursor-pointer">
+                            <i class="fa-solid fa-shield-virus text-lg"></i>
+                            <span data-i18n="scanNowBtn">Scan for Fraud & Fake Mamla</span>
+                        </button>
+
+                        <!-- Sample Presets -->
+                        <div class="mt-5 pt-4 border-t border-slate-100 dark:border-slate-800">
+                            <p class="text-xs font-bold uppercase tracking-wider text-slate-400 mb-2.5" data-i18n="samplePresetsTitle">
+                                Test All Bangladesh Scam Systems (One-Click Demo):
+                            </p>
+                            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2">
+                                <button type="button" onclick="loadSampleSms('scam_ai_mamla')" class="p-2.5 rounded-xl bg-rose-500/10 hover:bg-rose-500/20 border border-rose-500/25 text-left flex items-center gap-2">
+                                    <i class="fa-solid fa-gavel text-rose-500 text-xs"></i>
+                                    <span class="text-xs font-bold text-rose-400 truncate">Fake AI Court Mamla</span>
+                                </button>
+                                <button type="button" onclick="loadSampleSms('scam_fake_cashin')" class="p-2.5 rounded-xl bg-amber-500/10 hover:bg-amber-500/20 border border-amber-500/25 text-left flex items-center gap-2">
+                                    <i class="fa-solid fa-money-bill-transfer text-amber-500 text-xs"></i>
+                                    <span class="text-xs font-bold text-amber-400 truncate">Fake Cash-In Reversal</span>
+                                </button>
+                                <button type="button" onclick="loadSampleSms('scam_bangla_otp')" class="p-2.5 rounded-xl bg-rose-500/10 hover:bg-rose-500/20 border border-rose-500/25 text-left flex items-center gap-2">
+                                    <i class="fa-solid fa-key text-rose-500 text-xs"></i>
+                                    <span class="text-xs font-bold text-rose-400 truncate">MFS Block & OTP Trap</span>
+                                </button>
+                                <button type="button" onclick="loadSampleSms('scam_nid_apk')" class="p-2.5 rounded-xl bg-purple-500/10 hover:bg-purple-500/20 border border-purple-500/25 text-left flex items-center gap-2">
+                                    <i class="fa-solid fa-file-shield text-purple-500 text-xs"></i>
+                                    <span class="text-xs font-bold text-purple-400 truncate">BTRC SIM & .APK Trap</span>
+                                </button>
+                                <button type="button" onclick="loadSampleSms('scam_telegram_job')" class="p-2.5 rounded-xl bg-orange-500/10 hover:bg-orange-500/20 border border-orange-500/25 text-left flex items-center gap-2">
+                                    <i class="fa-brands fa-telegram text-orange-500 text-xs"></i>
+                                    <span class="text-xs font-bold text-orange-400 truncate">Telegram Task Scam</span>
+                                </button>
+                                <button type="button" onclick="loadSampleSms('legit_bkash')" class="p-2.5 rounded-xl bg-emerald-500/10 hover:bg-emerald-500/20 border border-emerald-500/25 text-left flex items-center gap-2">
+                                    <i class="fa-solid fa-circle-check text-emerald-500 text-xs"></i>
+                                    <span class="text-xs font-bold text-emerald-400 truncate">Official bKash Receipt</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right Column: Result Card -->
+                <div class="lg:col-span-5">
+                    <div id="sms-result-card" class="bg-white dark:bg-slate-900 rounded-3xl p-5 sm:p-6 border border-slate-200 dark:border-slate-800 shadow-sm h-full flex flex-col justify-between">
+                        <div>
+                            <div class="flex items-center justify-between mb-4">
+                                <div>
+                                    <h3 class="text-base font-extrabold uppercase tracking-wider text-slate-500 dark:text-slate-400" data-i18n="analysisReportTitle">
+                                        Threat Analysis Report
+                                    </h3>
+                                    <p id="analysis-engine-tag" class="text-[11px] font-mono text-emerald-500 mt-0.5">Engine: Ready</p>
+                                </div>
+                                <span id="risk-badge" class="px-3 py-1 rounded-full text-xs font-extrabold bg-slate-100 dark:bg-slate-800 text-slate-500">
+                                    READY
+                                </span>
+                            </div>
+
+                            <div class="p-5 rounded-2xl bg-slate-50 dark:bg-slate-950 border border-slate-200/80 dark:border-slate-800 mb-5">
+                                <div class="flex items-end justify-between mb-2">
+                                    <div>
+                                        <p class="text-xs text-slate-500 dark:text-slate-400" data-i18n="fraudProbability">Fraud Risk Score</p>
+                                        <h4 id="risk-verdict-title" class="text-xl sm:text-2xl font-extrabold mt-0.5 text-slate-700 dark:text-slate-200">
+                                            Awaiting Message
+                                        </h4>
+                                    </div>
+                                    <div class="text-right">
+                                        <span id="risk-score-number" class="text-3xl font-black font-mono text-slate-400">0</span>
+                                        <span class="text-sm font-bold text-slate-400">/100</span>
+                                    </div>
+                                </div>
+                                <div class="w-full h-3 bg-slate-200 dark:bg-slate-800 rounded-full overflow-hidden">
+                                    <div id="risk-progress-bar" class="h-full w-0 bg-emerald-500 transition-all duration-500 rounded-full"></div>
+                                </div>
+                            </div>
+
+                            <div>
+                                <h4 class="text-xs font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 mb-3" data-i18n="detectedIndicatorsLabel">
+                                    Detected Indicators & Forensics
+                                </h4>
+                                <ul id="risk-indicators-list" class="space-y-2.5 text-sm">
+                                    <li class="p-3 rounded-xl bg-slate-50 dark:bg-slate-950/60 border border-slate-200/60 dark:border-slate-800/80 text-slate-500 dark:text-slate-400 flex items-center gap-2.5">
+                                        <i class="fa-solid fa-circle-info text-emerald-500"></i>
+                                        <span data-i18n="defaultIndicatorText">Paste any Bangla or English message on the left and tap "Scan for Fraud & Fake Mamla".</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="mt-6 p-4 rounded-2xl bg-emerald-500/10 border border-emerald-500/20 text-xs sm:text-sm text-emerald-800 dark:text-emerald-300">
+                            <p class="font-bold flex items-center gap-2 mb-1">
+                                <i class="fa-solid fa-lock"></i>
+                                <span data-i18n="goldenRuleTitle">Bangladesh Bank Golden Rule:</span>
+                            </p>
+                            <p data-i18n="goldenRuleDesc">
+                                Never share your bKash/Nagad/Rocket/Bank PIN, OTP, or Card CVV with anyone. Official Police/Court links always end in (.gov.bd).
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- TAB 2: CALL & CONTACTS -->
+        <section id="section-call" class="hidden space-y-6">
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+                <div class="lg:col-span-7 bg-white dark:bg-slate-900 rounded-3xl p-6 border border-slate-200 dark:border-slate-800">
+                    <h3 class="text-lg font-extrabold flex items-center gap-2 mb-3">
+                        <i class="fa-solid fa-user-shield text-emerald-500"></i>
+                        <span data-i18n="callerShieldTitle">Incoming Call & Number Verifier</span>
+                    </h3>
+                    <div class="space-y-3">
+                        <input id="call-check-number" type="tel" placeholder="e.g., 01711000000 or 16247"
+                            class="w-full px-4 py-3 rounded-xl bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-sm font-mono">
+                        <input id="call-check-claim" type="text" placeholder="What did the caller claim? (e.g., bKash Head Office / Police Mamla)"
+                            class="w-full px-4 py-3 rounded-xl bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-sm">
+                        <div class="grid grid-cols-2 gap-3">
+                            <button type="button" onclick="verifyPhoneNumber(false)" class="py-3 px-4 rounded-xl bg-slate-800 text-white font-bold text-sm">Verify Number</button>
+                            <button type="button" onclick="verifyPhoneNumber(true)" class="py-3 px-4 rounded-xl bg-emerald-600 text-white font-bold text-sm">Simulate Call Popup</button>
+                        </div>
+                    </div>
+                    <div id="inline-call-result" class="hidden mt-5 p-4 rounded-2xl border"></div>
+                </div>
+
+                <div class="lg:col-span-5 bg-white dark:bg-slate-900 rounded-3xl p-6 border border-slate-200 dark:border-slate-800">
+                    <div class="flex items-center justify-between mb-3">
+                        <h3 class="text-lg font-extrabold">Trusted Contacts</h3>
+                        <button type="button" onclick="importDeviceContacts()" class="px-3 py-1.5 rounded-xl bg-sky-600 text-white text-xs font-bold">Sync Phone</button>
+                    </div>
+                    <div class="flex gap-2 mb-4">
+                        <input id="new-contact-name" type="text" placeholder="Name" class="w-1/2 px-3 py-2 rounded-xl bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-xs">
+                        <input id="new-contact-phone" type="tel" placeholder="017XXXXXXXX" class="w-1/2 px-3 py-2 rounded-xl bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-xs font-mono">
+                        <button type="button" onclick="addTrustedContact()" class="px-3.5 py-2 rounded-xl bg-emerald-600 text-white text-xs font-bold">+</button>
+                    </div>
+                    <div id="trusted-contacts-list" class="space-y-2 max-h-64 overflow-y-auto"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- TAB 3: SCAM GUIDE & 999 -->
+        <section id="section-helpline" class="hidden space-y-6">
+            <div id="scam-encyclopedia-grid" class="grid grid-cols-1 md:grid-cols-2 gap-4"></div>
+            <div id="helpline-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+        </section>
+
+        <!-- TAB 4: FULL APP CODE -->
+        <section id="section-code" class="hidden space-y-6">
+            <div class="bg-white dark:bg-slate-900 rounded-3xl p-6 border border-slate-200 dark:border-slate-800">
+                <h3 class="text-lg font-extrabold mb-2">Native Android (Kotlin) & Python Backend Code</h3>
+                <p class="text-xs text-slate-400 mb-4">Compile in Android Studio to build an APK that reads incoming SMS, Calls & Contacts automatically on mobile.</p>
+                <pre class="p-4 rounded-2xl bg-slate-950 text-xs font-mono text-emerald-300 overflow-x-auto max-h-96">// Full AndroidManifest.xml, BangladeshFraudEngine.kt & SmsAndCallGuardReceiver.kt are bundled in server.py / project documentation.</pre>
+            </div>
+        </section>
+    </main>
+
+    <script>
+        let currentLang = 'en';
+        let scamsDetectedCount = 0;
+        let trustedContacts = [
+            { name: 'Abbu (Father)', phone: '01711112222' },
+            { name: 'Ammu (Mother)', phone: '01812345678' }
+        ];
+
+        const OFFICIAL_SHORTCODES = {
+            '16247': 'bKash Official Helpline',
+            '16167': 'Nagad Official Helpline',
+            '16216': 'DBBL / Rocket / NexusPay Official',
+            '16268': 'Upay Official Helpline',
+            '16259': 'Islami Bank / CellFin Official',
+            '999': 'Bangladesh National Emergency Service',
+            '333': 'Bangladesh National Gov Info',
+            '100': 'BTRC Telecom Helpline',
+            '105': 'NID Helpline'
+        };
+
+        const OFFICIAL_SENDER_IDS = [
+            'BKASH', 'NAGAD', 'DBBL', 'ROCKET', 'NEXUSPAY', 'UPAY', 'CELLFIN', 'TAP',
+            'CITYBANK', 'BRACBANK', 'IBBL', 'EBL', 'GP', 'GRAMEENPHONE', 'ROBI', 'BANGLALINK', 'MYGP'
+        ];
+
+        const OFFICIAL_TRUSTED_DOMAINS = [
+            '.gov.bd', 'mygp.li', 'grameenphone.com', 'robi.com.bd', 'banglalink.net',
+            'teletalk.com.bd', 'bkash.com', 'nagad.com.bd', 'dutchbanglabank.com'
+        ];
+
+        const SAMPLE_MESSAGES = {
+            scam_ai_mamla: {
+                sender: '+8801755889900',
+                body: 'জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও মোবাইল নম্বরের বিরুদ্ধে সাইবার ট্রাইব্যুনাল ও ডিএমপি পোর্টালে ডিজিটাল মামলা (মামলা নং-৪০২/২০২৬) দায়ের করা হয়েছে। গ্রেফতারি ওয়ারেন্ট স্থগিত করতে আগামী ২ ঘণ্টার মধ্যে তদন্ত কর্মকর্তার সাথে যোগাযোগ করুন: 01755889900 অথবা ভিজিট করুন http://bd-ecourt-notice.xyz'
+            },
+            legit_bkash: {
+                sender: 'bKash',
+                body: 'Cash In Tk 5,000.00 from 01711009988 successful. Fee Tk 0.00. Balance Tk 12,450.00. TrxID B9K4M2P8Q1 at 12/11/2026 21:45.'
+            },
+            scam_bangla_otp: {
+                sender: '+8801845992211',
+                body: 'সম্মানিত গ্রাহক, আপনার নগদ/বিকাশ একাউন্টটি সাময়িকভাবে বন্ধ (Block) হয়ে গেছে। একাউন্ট চালু রাখতে এখনই আপনার ফোনে আসা ৬ সংখ্যার OTP কোড ও পিন (PIN) দিন।'
+            },
+            scam_fake_cashin: {
+                sender: '+8801798112233',
+                body: 'Cash In Tk 15,200.00 from 01798112233 successful. Balance Tk 15,500.00. (ভাই ভুল করে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01798112233 নম্বরে Send Money করে ফেরত দিন)'
+            },
+            scam_nid_apk: {
+                sender: 'BTRC-ALERT',
+                body: 'সতর্কবার্তা: বায়োমেট্রিক তথ্য হালনাগাদ না থাকায় আগামী ২৪ ঘণ্টার মধ্যে আপনার NID দিয়ে নিবন্ধিত সকল সিম বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://nid-btrc-verify.top/update.apk'
+            },
+            scam_telegram_job: {
+                sender: '+8801933445566',
+                body: 'অভিনন্দন! ঘরে বসে পার্ট-টাইম ইউটিউব লাইক ও অনলাইন টাস্ক করে দৈনিক ৩,০০০ - ৫,০০০ টাকা আয় করুন। টেলিগ্রাম গ্রুপে যুক্ত হন: https://t.me/bd_task_earning'
+            }
+        };
+
+        function toggleTheme() {
+            document.documentElement.classList.toggle('dark');
+        }
+
+        function toggleLanguage() {
+            currentLang = currentLang === 'en' ? 'bn' : 'en';
+            document.getElementById('lang-label').textContent = currentLang === 'en' ? 'বাংলা' : 'English';
+        }
+
+        function showToast(msg) {
+            const c = document.getElementById('toast-container');
+            const d = document.createElement('div');
+            d.className = 'pointer-events-auto px-4 py-3 rounded-2xl bg-slate-800 text-white border border-slate-600 text-xs font-bold shadow-xl';
+            d.textContent = msg;
+            c.appendChild(d);
+            setTimeout(() => d.remove(), 3500);
+        }
+
+        function switchTab(tabName) {
+            ['sms', 'call', 'helpline', 'code'].forEach(t => {
+                document.getElementById('section-' + t).classList.add('hidden');
+                document.getElementById('tab-btn-' + t).className = 'py-2.5 px-2 sm:px-4 rounded-xl text-xs sm:text-sm font-bold flex items-center justify-center gap-2 bg-slate-100 dark:bg-slate-800/80 text-slate-600 dark:text-slate-300';
+            });
+            document.getElementById('section-' + tabName).classList.remove('hidden');
+            document.getElementById('tab-btn-' + tabName).className = 'py-2.5 px-2 sm:px-4 rounded-xl text-xs sm:text-sm font-bold flex items-center justify-center gap-2 bg-emerald-600 text-white shadow-md';
+        }
+
+        function normalizeBdPhone(num) {
+            const digits = (num || '').replace(/\D/g, '');
+            if (digits.startsWith('880') && digits.length === 13) return '0' + digits.slice(3);
+            return digits;
+        }
+
+        function getApiBaseUrl() {
+            const custom = document.getElementById('python-api-url').value.trim().replace(/\/$/, '');
+            if (custom) return custom;
+            if (window.location.protocol.startsWith('http')) return window.location.origin;
+            return 'http://127.0.0.1:8000';
+        }
+
+        async function checkPythonBackendHealth() {
+            const dot = document.getElementById('backend-status-dot');
+            const text = document.getElementById('backend-status-text');
+            const baseUrl = getApiBaseUrl();
+            try {
+                const res = await fetch(baseUrl + '/api/v1/health');
+                if (res.ok) {
+                    dot.className = 'w-2.5 h-2.5 rounded-full bg-emerald-400';
+                    text.textContent = 'Python Server Connected (' + baseUrl + ') — Real-time Backend Active';
+                    return true;
+                }
+            } catch (e) {}
+            dot.className = 'w-2.5 h-2.5 rounded-full bg-amber-400';
+            text.textContent = 'Python Server Offline — Local Fallback Engine Active';
+            return false;
+        }
+
+        function loadSampleSms(key) {
+            const s = SAMPLE_MESSAGES[key];
+            if (!s) return;
+            document.getElementById('sms-sender-input').value = s.sender;
+            document.getElementById('sms-body-input').value = s.body;
+            analyzeSmsMessage();
+        }
+
+        function clearSmsForm() {
+            document.getElementById('sms-sender-input').value = '';
+            document.getElementById('sms-body-input').value = '';
+        }
+
+        async function analyzeSmsMessage() {
+            const sender = document.getElementById('sms-sender-input').value.trim();
+            const body = document.getElementById('sms-body-input').value.trim();
+            const engineTag = document.getElementById('analysis-engine-tag');
+
+            if (!body) {
+                showToast('Please paste a message first.');
+                return;
+            }
+
+            engineTag.textContent = 'Engine: Scanning via Python Server...';
+            const baseUrl = getApiBaseUrl();
+
+            // 1. Try Python FastAPI Server
+            try {
+                const res = await fetch(baseUrl + '/api/v1/scan-message', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ sender: sender, message: body, use_ai: false })
+                });
+                if (res.ok) {
+                    const data = await res.json();
+                    engineTag.textContent = 'Engine: ' + (data.engine || 'Python FastAPI Server');
+                    renderSmsAnalysisResult(data.score, data.indicators || []);
+                    return;
+                }
+            } catch (err) {
+                // Fall back to local engine below
+            }
+
+            // 2. Local Fallback Engine
+            engineTag.textContent = 'Engine: Local Browser Engine';
+            let score = 0;
+            const indicators = [];
+            const normSender = normalizeBdPhone(sender);
+            const upperSender = sender.toUpperCase().replace(/[^A-Z0-9]/g, '');
+            const hasTrustedDomain = OFFICIAL_TRUSTED_DOMAINS.some(d => body.toLowerCase().includes(d));
+
+            if (/^01[3-9]\d{8}$/.test(normSender)) {
+                score += 40;
+                indicators.push({
+                    severity: 'high',
+                    en: 'Personal Mobile Sender (' + normSender + '): Banks, MFS & Police never send official notices from 11-digit numbers.',
+                    bn: 'ব্যক্তিগত মোবাইল নম্বর (' + normSender + '): ব্যাংক, বিকাশ, নগদ বা পুলিশ কখনোই ব্যক্তিগত নম্বর থেকে অফিশিয়াল মেসেজ পাঠায় না।'
+                });
+            }
+
+            if (/(মামলা|ওয়ারেন্ট|গ্রেফতার|আদালত|ট্রাইব্যুনাল|সাইবার পুলিশ|mamla|warrant|court|tribunal)/i.test(body) && !/\.gov\.bd/i.test(body)) {
+                score += 55;
+                indicators.push({
+                    severity: 'high',
+                    en: 'FAKE AI POLICE / COURT MAMLA SCAM: Real BD Courts & Police never settle cases via bKash/Nagad.',
+                    bn: 'ভুয়া AI পুলিশ বা কোর্ট মামলা প্রতারণা: প্রকৃত পুলিশ বা আদালত কখনোই বিকাশ-নগদে টাকা চায় না।'
+                });
+            }
+
+            if (/(pin|otp|password|cvv|পিন|ওটিপি|গোপন কোড|পাসওয়ার্ড)/i.test(body)) {
+                score += 45;
+                indicators.push({
+                    severity: 'high',
+                    en: 'Critical PIN/OTP Harvesting: Message asks for your secret PIN or OTP.',
+                    bn: 'গুরুতর পিন/ওটিপি ফাঁদ: মেসেজটিতে আপনার গোপন পিন বা ওটিপি চাওয়া হয়েছে।'
+                });
+            }
+
+            if (/(ভুল করে|ভুলে টাকা|ফেরত দিন|টাকা চলে গেছে|mistakenly sent)/i.test(body)) {
+                score += 40;
+                indicators.push({
+                    severity: 'high',
+                    en: 'Fake "Wrong Cash-In" Reversal Scam: Check your real balance in the official app first.',
+                    bn: 'ভুয়া "ভুলে টাকা চলে গেছে" প্রতারণা: টাকা ফেরত দেওয়ার আগে অফিসিয়াল অ্যাপে আসল ব্যালেন্স চেক করুন।'
+                });
+            }
+
+            if (/(https?:\/\/|www\.|\.xyz|\.top|\.apk|anydesk|teamviewer)/i.test(body) && !hasTrustedDomain) {
+                score += 40;
+                indicators.push({
+                    severity: 'high',
+                    en: 'Suspicious Phishing / .APK Link detected.',
+                    bn: 'সন্দেহজনক ফিশিং বা .APK লিংক শনাক্ত হয়েছে।'
+                });
+            } else if (hasTrustedDomain && score <= 10) {
+                indicators.push({
+                    severity: 'safe',
+                    en: 'Verified Official Bangladesh Telecom / Bank / Gov Domain detected (e.g., mygp.li / .gov.bd).',
+                    bn: 'ভেরিফায়েড অফিসিয়াল বাংলাদেশ টেলিকম/ব্যাংক/সরকারি ডোমেইন শনাক্ত হয়েছে।'
+                });
+            }
+
+            score = Math.max(0, Math.min(100, score));
+            renderSmsAnalysisResult(score, indicators);
+        }
+
+        function renderSmsAnalysisResult(score, indicators) {
+            const badge = document.getElementById('risk-badge');
+            const title = document.getElementById('risk-verdict-title');
+            const scoreNum = document.getElementById('risk-score-number');
+            const bar = document.getElementById('risk-progress-bar');
+            const list = document.getElementById('risk-indicators-list');
+
+            scoreNum.textContent = score;
+            bar.style.width = score + '%';
+
+            if (score >= 50) {
+                scamsDetectedCount++;
+                document.getElementById('scam-counter').textContent = scamsDetectedCount;
+                badge.textContent = currentLang === 'bn' ? 'উচ্চ ঝুঁকি (প্রতারণা)' : 'HIGH RISK SCAM';
+                badge.className = 'px-3 py-1 rounded-full text-xs font-extrabold bg-rose-500/20 text-rose-500 border border-rose-500/30';
+                title.textContent = currentLang === 'bn' ? 'সাবধান! এটি প্রতারণামূলক মেসেজ' : 'DANGER: Fraud / Fake Notice Detected';
+                title.className = 'text-xl sm:text-2xl font-extrabold mt-0.5 text-rose-500';
+                scoreNum.className = 'text-3xl font-black font-mono text-rose-500';
+                bar.className = 'h-full bg-rose-500 transition-all duration-500 rounded-full';
+            } else if (score >= 20) {
+                badge.textContent = currentLang === 'bn' ? 'সন্দেহজনক' : 'SUSPICIOUS';
+                badge.className = 'px-3 py-1 rounded-full text-xs font-extrabold bg-amber-500/20 text-amber-500 border border-amber-500/30';
+                title.textContent = currentLang === 'bn' ? 'সতর্ক থাকুন — যাচাই করুন' : 'CAUTION: Suspicious Pattern';
+                title.className = 'text-xl sm:text-2xl font-extrabold mt-0.5 text-amber-500';
+                scoreNum.className = 'text-3xl font-black font-mono text-amber-500';
+                bar.className = 'h-full bg-amber-500 transition-all duration-500 rounded-full';
+            } else {
+                badge.textContent = currentLang === 'bn' ? 'নিরাপদ' : 'SAFE / VERIFIED';
+                badge.className = 'px-3 py-1 rounded-full text-xs font-extrabold bg-emerald-500/20 text-emerald-500 border border-emerald-500/30';
+                title.textContent = currentLang === 'bn' ? 'মেসেজটি নিরাপদ মনে হচ্ছে' : 'Likely Safe Message';
+                title.className = 'text-xl sm:text-2xl font-extrabold mt-0.5 text-emerald-500';
+                scoreNum.className = 'text-3xl font-black font-mono text-emerald-500';
+                bar.className = 'h-full bg-emerald-500 transition-all duration-500 rounded-full';
+            }
+
+            if (!indicators.length) {
+                indicators.push({
+                    severity: 'safe',
+                    en: 'No known banking fraud, fake Mamla threat, phishing link, or OTP request detected.',
+                    bn: 'কোনো পরিচিত ব্যাংকিং প্রতারণা, ভুয়া মামলা, ফিশিং লিংক বা ওটিপি চাওয়ার প্রমাণ পাওয়া যায়নি।'
+                });
+            }
+
+            list.innerHTML = indicators.map(item => {
+                const icon = item.severity === 'high' ? 'fa-circle-xmark text-rose-500' : (item.severity === 'medium' ? 'fa-triangle-exclamation text-amber-500' : 'fa-circle-check text-emerald-500');
+                return '<li class="p-3 rounded-xl border border-slate-700/60 bg-slate-950/60 flex items-start gap-2.5"><i class="fa-solid ' + icon + ' mt-1"></i><span>' + (currentLang === 'bn' ? item.bn : item.en) + '</span></li>';
+            }).join('');
+        }
+
+        function renderTrustedContacts() {
+            const list = document.getElementById('trusted-contacts-list');
+            list.innerHTML = trustedContacts.map((c, idx) =>
+                '<div class="p-2.5 rounded-xl bg-slate-950 border border-slate-800 flex items-center justify-between text-xs">' +
+                '<div><p class="font-bold">' + c.name + '</p><p class="font-mono text-slate-400">' + c.phone + '</p></div>' +
+                '<button type="button" onclick="trustedContacts.splice(' + idx + ',1);renderTrustedContacts()" class="text-rose-500"><i class="fa-solid fa-trash"></i></button>' +
+                '</div>'
+            ).join('');
+        }
+
+        function addTrustedContact() {
+            const name = document.getElementById('new-contact-name').value.trim();
+            const phone = normalizeBdPhone(document.getElementById('new-contact-phone').value.trim());
+            if (!name || !phone) return;
+            trustedContacts.unshift({ name, phone });
+            document.getElementById('new-contact-name').value = '';
+            document.getElementById('new-contact-phone').value = '';
+            renderTrustedContacts();
+        }
+
+        async function importDeviceContacts() {
+            if ('contacts' in navigator && 'ContactsManager' in window) {
+                const contacts = await navigator.contacts.select(['name', 'tel'], { multiple: true });
+                contacts.forEach(c => {
+                    if (c.tel && c.tel[0]) trustedContacts.unshift({ name: (c.name && c.name[0]) || 'Contact', phone: normalizeBdPhone(c.tel[0]) });
+                });
+                renderTrustedContacts();
+            } else {
+                showToast('Phone Contact Sync works on Android Chrome HTTPS or in the native Android APK.');
+            }
+        }
+
+        function verifyPhoneNumber(openOverlay) {
+            const normNum = normalizeBdPhone(document.getElementById('call-check-number').value.trim());
+            const claim = document.getElementById('call-check-claim').value.trim();
+            if (!normNum) return;
+            const official = OFFICIAL_SHORTCODES[normNum];
+            const isScam = /^01[3-9]\d{8}$/.test(normNum) && /(bkash|বিকাশ|nagad|নগদ|bank|police|পুলিশ|mamla|মামলা|pin|otp)/i.test(claim);
+            const title = official || (isScam ? 'IMPERSONATOR SCAM ALERT!' : 'Unknown Unsaved Number');
+            const desc = official ? 'Verified Official Helpline (' + normNum + ')' : (isScam ? 'DANGER! Personal 01X number impersonating Bank/Police.' : 'Not in your saved contacts.');
+            const box = document.getElementById('inline-call-result');
+            box.classList.remove('hidden');
+            box.className = 'mt-5 p-4 rounded-2xl border ' + (isScam ? 'border-rose-500 bg-rose-500/10 text-rose-400' : 'border-emerald-500 bg-emerald-500/10 text-emerald-400');
+            box.innerHTML = '<h4 class="font-bold text-sm">' + title + '</h4><p class="text-xs mt-1">' + desc + '</p>';
+            if (openOverlay) {
+                document.getElementById('call-caller-name').textContent = title;
+                document.getElementById('call-caller-number').textContent = normNum;
+                document.getElementById('call-analysis-desc').textContent = desc;
+                document.getElementById('incoming-call-modal').classList.remove('hidden');
+            }
+        }
+
+        function closeCallModal() { document.getElementById('incoming-call-modal').classList.add('hidden'); }
+        function blockSimulatedCaller() { closeCallModal(); showToast('Caller blocked!'); }
+
+        window.onload = function () {
+            renderTrustedContacts();
+            checkPythonBackendHealth();
+        };
+    </script>
+</body>
+</html>
