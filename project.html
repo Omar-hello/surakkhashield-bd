@@ -241,6 +241,14 @@
                                     <span class="text-xs font-bold text-emerald-400 truncate">Official bKash Receipt</span>
                                 </button>
                             </div>
+                            <div class="mt-3 grid grid-cols-2 gap-2">
+                                <button type="button" onclick="testRandomFromDataset('fake')" class="py-2 px-3 rounded-xl bg-rose-950/60 hover:bg-rose-900/60 border border-rose-500/30 text-xs font-bold text-rose-300 flex items-center justify-center gap-1.5">
+                                    <i class="fa-solid fa-shuffle"></i> Test Random Dataset FAKE
+                                </button>
+                                <button type="button" onclick="testRandomFromDataset('real')" class="py-2 px-3 rounded-xl bg-emerald-950/60 hover:bg-emerald-900/60 border border-emerald-500/30 text-xs font-bold text-emerald-300 flex items-center justify-center gap-1.5">
+                                    <i class="fa-solid fa-shuffle"></i> Test Random Dataset REAL
+                                </button>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -515,13 +523,84 @@
                 // Fall back to local engine below
             }
 
-            // 2. Local Fallback Engine
-            engineTag.textContent = 'Engine: Local Browser Engine';
+            // 2. Local ML Similarity & Dataset Fallback Engine (Trained on surokkhashield_1000_dataset.txt)
+            const DATASET_POOL = {"fake": [{"id": "[FAKE-001]", "sender": "BTRC-INFO", "body": "সম্মানিত DHAKABANK গ্রাহক, আপনার কার্ড থেকে 50,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।"}, {"id": "[FAKE-017]", "sender": "CYBER-POLICE", "body": "সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01355786925 নম্বরে কল দিন।"}, {"id": "[FAKE-033]", "sender": "BTRC-INFO", "body": "Cash Out Tk 3,000.00 to 01672985261 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01668954097)।"}, {"id": "[FAKE-049]", "sender": "CYBER-POLICE", "body": "Cash In Tk 8,500.00 from 01747720343 successful. Balance Tk 3,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01327959858 নম্বরে Send Money করে ফেরত দিন)।"}, {"id": "[FAKE-065]", "sender": "BKASH-OFFER", "body": "You have received Tk 2,450.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net"}, {"id": "[FAKE-081]", "sender": "NAGAD-WIN", "body": "Urgent Notice from AGRANIBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd50.top"}, {"id": "[FAKE-097]", "sender": "NAGAD-WIN", "body": "Urgent Notice from MTB: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd69.top"}, {"id": "[FAKE-113]", "sender": "NAGAD-WIN", "body": "সুখবর! নগদ দিচ্ছে মাত্র ২% সুদে 8,500.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top"}, {"id": "[FAKE-129]", "sender": "DBBL-ALERT", "body": "আপনার রকেট একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 757203 কোডটি এই নম্বরে পাঠান।"}, {"id": "[FAKE-145]", "sender": "DBBL-ALERT", "body": "Dear Customer, your EXIMBANK internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info"}, {"id": "[FAKE-161]", "sender": "CYBER-POLICE", "body": "অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 10,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-61.xyz"}, {"id": "[FAKE-177]", "sender": "BTRC-INFO", "body": "Cash Out Tk 1,500.00 to 01717338416 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01821365339)।"}, {"id": "[FAKE-193]", "sender": "+8801583623737", "body": "You have received Tk 3,000.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net"}, {"id": "[FAKE-209]", "sender": "NAGAD-WIN", "body": "Cash In Tk 10,000.00 from 01518718712 successful. Balance Tk 15,200.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01652650741 নম্বরে Send Money করে ফেরত দিন)।"}, {"id": "[FAKE-225]", "sender": "BKASH-OFFER", "body": "আপনার UCB একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01921294994 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।"}, {"id": "[FAKE-241]", "sender": "BKASH-OFFER", "body": "আপনার নগদ একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 924640 কোডটি এই নম্বরে পাঠান।"}, {"id": "[FAKE-257]", "sender": "NAGAD-WIN", "body": "আপনার বিকাশ একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 539864 কোডটি এই নম্বরে পাঠান।"}, {"id": "[FAKE-273]", "sender": "DBBL-ALERT", "body": "আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 50,000.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01575560530 নম্বরে টাকাটা ফেরত দিন।"}, {"id": "[FAKE-289]", "sender": "NAGAD-WIN", "body": "You have received Tk 500.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net"}, {"id": "[FAKE-305]", "sender": "BKASH-OFFER", "body": "ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01871134711, নতুবা একাউন্ট জব্দ হবে।"}, {"id": "[FAKE-321]", "sender": "+8801681816562", "body": "ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_225"}, {"id": "[FAKE-337]", "sender": "BKASH-OFFER", "body": "Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01577105081 for instant help."}, {"id": "[FAKE-353]", "sender": "BKASH-OFFER", "body": "ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_300"}, {"id": "[FAKE-369]", "sender": "BTRC-INFO", "body": "You have received Tk 25,000.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net"}, {"id": "[FAKE-385]", "sender": "BTRC-INFO", "body": "সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01596016669 নম্বরে কল দিন।"}, {"id": "[FAKE-401]", "sender": "DBBL-ALERT", "body": "ONEBANK Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk"}, {"id": "[FAKE-417]", "sender": "CYBER-POLICE", "body": "Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01375268411 for instant help."}, {"id": "[FAKE-433]", "sender": "+8801623458588", "body": "সম্মানিত EXIMBANK গ্রাহক, আপনার কার্ড থেকে 2,450.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।"}, {"id": "[FAKE-449]", "sender": "CYBER-POLICE", "body": "আপনার BRACBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01670687271 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।"}, {"id": "[FAKE-465]", "sender": "BTRC-INFO", "body": "Cash Out Tk 2,450.00 to 01672544187 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01579149818)।"}], "real": [{"id": "[REAL-001]", "sender": "IBBL", "body": "Assalamu Alaikum. Your A/C 2050147***529 has been credited with BDT 15,200.00 on 14-NOV-26. Current Balance BDT 10,000.00. Islami Bank Bangladesh PLC."}, {"id": "[REAL-017]", "sender": "bKash", "body": "Cash In Tk 50,000.00 from 01978947181 successful. Fee Tk 0.00. Balance Tk 2,450.00. TrxID JUCWN3JNWW at 14/11/2026 10:30."}, {"id": "[REAL-033]", "sender": "BANKASIA", "body": "Alert: Your A/C 462***460 has been credited with BDT 500.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 500.00."}, {"id": "[REAL-049]", "sender": "DBBL", "body": "Your DBBL A/C 101.298***446 has been debited by BDT 2,450.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 25,000.00. Helpline: 16216."}, {"id": "[REAL-065]", "sender": "bKash", "body": "Cash In Tk 50,000.00 from 01969516052 successful. Fee Tk 0.00. Balance Tk 5,000.00. TrxID FGLY04H86G at 14/11/2026 10:30."}, {"id": "[REAL-081]", "sender": "bKash", "body": "Your bKash Verification Code is 354992. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code."}, {"id": "[REAL-097]", "sender": "CELLFIN", "body": "CellFin: Fund Transfer Tk 10,000.00 to A/C 2050569***495 successful. Fee Tk 0.00. Balance Tk 2,450.00. TrxID CF9351997."}, {"id": "[REAL-113]", "sender": "DBBL", "body": "One-Time Password (OTP) for your internet banking fund transfer of BDT 8,500.00 is 484164. Never share your OTP with anyone."}, {"id": "[REAL-129]", "sender": "bKash", "body": "Cash In Tk 5,000.00 from 01349923091 successful. Fee Tk 0.00. Balance Tk 15,200.00. TrxID BR3T4H6NEL at 14/11/2026 10:30."}, {"id": "[REAL-145]", "sender": "bKash", "body": "Your bKash Verification Code is 321204. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code."}, {"id": "[REAL-161]", "sender": "UPAY", "body": "Send Money Tk 8,500.00 to 01713227398 is successful. Fee Tk 0.00. Current Balance Tk 5,000.00. TrxID UP2661153."}, {"id": "[REAL-177]", "sender": "16247", "body": "প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 2,450.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID ENRK28JXA2। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।"}, {"id": "[REAL-193]", "sender": "EBL", "body": "Alert: Your A/C 232***129 has been credited with BDT 5,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 500.00."}, {"id": "[REAL-209]", "sender": "DBBL", "body": "Your DBBL A/C 101.277***132 has been debited by BDT 3,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 2,450.00. Helpline: 16216."}, {"id": "[REAL-225]", "sender": "EBL", "body": "EBL Alert: Purchase of BDT 10,000.00 at AARONG using EBL VISA Card 4321****3354 on 14/11/26. Available Balance: BDT 1,020.00."}, {"id": "[REAL-241]", "sender": "IBBL", "body": "Assalamu Alaikum. Your A/C 2050299***716 has been credited with BDT 3,000.00 on 14-NOV-26. Current Balance BDT 50,000.00. Islami Bank Bangladesh PLC."}, {"id": "[REAL-257]", "sender": "NAGAD", "body": "আপনার নগদ ওটিপি (OTP) হলো 975355। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।"}, {"id": "[REAL-273]", "sender": "MTB", "body": "Mutual Trust Bank: OTP for your online transaction of BDT 500.00 is 473489. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219."}, {"id": "[REAL-289]", "sender": "16247", "body": "প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 10,000.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID J4GZ9TEGLU। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।"}, {"id": "[REAL-305]", "sender": "SCB", "body": "Alert: Your A/C 187***596 has been credited with BDT 1,500.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 500.00."}, {"id": "[REAL-321]", "sender": "NAGAD", "body": "Cash Out Tk 2,450.00 to 01981094803 successful. Fee Tk 18.50. Balance Tk 10,000.00. TrxID 06VKRRGX at 14/11/2026 14:15."}, {"id": "[REAL-337]", "sender": "MTB", "body": "Mutual Trust Bank: OTP for your online transaction of BDT 3,000.00 is 620075. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219."}, {"id": "[REAL-353]", "sender": "BANKASIA", "body": "One-Time Password (OTP) for your internet banking fund transfer of BDT 8,500.00 is 436660. Never share your OTP with anyone."}, {"id": "[REAL-369]", "sender": "MTB", "body": "Mutual Trust Bank: OTP for your online transaction of BDT 8,500.00 is 778609. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219."}, {"id": "[REAL-385]", "sender": "NAGAD", "body": "Cash Out Tk 8,500.00 to 01383304783 successful. Fee Tk 18.50. Balance Tk 2,450.00. TrxID 9YQMPAED at 14/11/2026 14:15."}, {"id": "[REAL-401]", "sender": "16216", "body": "Rocket: Cash-In Tk 10,000.00 from A/C 018189185109; Fee Tk 0.00; Balance Tk 2,450.00; TrxID 9174467549; Date 14-Nov-2026."}, {"id": "[REAL-417]", "sender": "16216", "body": "Rocket: Cash-In Tk 15,200.00 from A/C 016843012859; Fee Tk 0.00; Balance Tk 50,000.00; TrxID 9910883855; Date 14-Nov-2026."}, {"id": "[REAL-433]", "sender": "16216", "body": "Rocket: Cash-In Tk 50,000.00 from A/C 019733329859; Fee Tk 0.00; Balance Tk 2,450.00; TrxID 2873918147; Date 14-Nov-2026."}, {"id": "[REAL-449]", "sender": "bKash", "body": "সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।"}, {"id": "[REAL-465]", "sender": "DBBL", "body": "Alert: Your A/C 484***548 has been credited with BDT 50,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 2,450.00."}]};
+
+            function normalizeForML(txt) {
+                return (txt || '')
+                    .toLowerCase()
+                    .replace(/\b01[3-9]\d{8}\b/g, ' <PHONE> ')
+                    .replace(/\b\d{1,3}(,\d{3})*(\.\d{2})?\b/g, ' <AMT> ')
+                    .replace(/\b[a-z0-9]{8,12}\b/g, ' <TRX> ')
+                    .replace(/[^\w\u0980-\u09FF<>\s]/g, ' ')
+                    .replace(/\s+/g, ' ')
+                    .trim();
+            }
+
+            function getNgrams(str, n = 3) {
+                const s = ' ' + str + ' ';
+                const grams = new Set();
+                for (let i = 0; i <= s.length - n; i++) {
+                    grams.add(s.slice(i, i + n));
+                }
+                return grams;
+            }
+
+            function computeTextSimilarity(a, b) {
+                const gA = getNgrams(normalizeForML(a), 3);
+                const gB = getNgrams(normalizeForML(b), 3);
+                if (!gA.size || !gB.size) return 0;
+                let inter = 0;
+                gA.forEach(x => { if (gB.has(x)) inter++; });
+                return inter / (gA.size + gB.size - inter);
+            }
+
+            engineTag.textContent = 'Engine: Local ML Similarity Classifier (1000-SMS Dataset)';
             let score = 0;
             const indicators = [];
             const normSender = normalizeBdPhone(sender);
             const upperSender = sender.toUpperCase().replace(/[^A-Z0-9]/g, '');
             const hasTrustedDomain = OFFICIAL_TRUSTED_DOMAINS.some(d => body.toLowerCase().includes(d));
+
+            // Compare against Dataset FAKE and REAL templates
+            let bestFakeSim = 0, bestFakeItem = null;
+            DATASET_POOL.fake.forEach(item => {
+                const sim = computeTextSimilarity(sender + ' ' + body, item.sender + ' ' + item.body);
+                if (sim > bestFakeSim) { bestFakeSim = sim; bestFakeItem = item; }
+            });
+
+            let bestRealSim = 0, bestRealItem = null;
+            DATASET_POOL.real.forEach(item => {
+                const sim = computeTextSimilarity(sender + ' ' + body, item.sender + ' ' + item.body);
+                if (sim > bestRealSim) { bestRealSim = sim; bestRealItem = item; }
+            });
+
+            const fakeSimPct = Math.round(bestFakeSim * 100);
+            const realSimPct = Math.round(bestRealSim * 100);
+
+            if (fakeSimPct > realSimPct && fakeSimPct >= 18) {
+                score += Math.min(75, Math.round(fakeSimPct * 1.45));
+                indicators.push({
+                    severity: 'high',
+                    en: `ML Dataset Similarity (${fakeSimPct}% match with ${bestFakeItem.id} [FAKE]): "${bestFakeItem.body.slice(0, 75)}..."`,
+                    bn: `ML ডেটাসেট মিল (${bestFakeItem.id} [FAKE]-এর সাথে ${fakeSimPct}% সাদৃশ্য): "${bestFakeItem.body.slice(0, 75)}..."`
+                });
+            } else if (realSimPct >= fakeSimPct && realSimPct >= 18) {
+                indicators.push({
+                    severity: 'safe',
+                    en: `ML Dataset Similarity (${realSimPct}% match with ${bestRealItem.id} [REAL]): Official bank/MFS message pattern.`,
+                    bn: `ML ডেটাসেট মিল (${bestRealItem.id} [REAL]-এর সাথে ${realSimPct}% সাদৃশ্য): অফিশিয়াল ব্যাংক/MFS মেসেজ প্যাটার্ন।`
+                });
+            }
+
+            if (/^(BTRC-INFO|CYBER-POLICE|NAGAD-WIN|BKASH-OFFER|DBBL-ALERT|BTRC-ALERT)$/i.test(sender)) {
+                score += 65;
+                indicators.push({
+                    severity: 'high',
+                    en: 'Spoofed Scam Sender ID (' + sender + '): Official BTRC, Police & Banks never use this ID.',
+                    bn: 'ভুয়া প্রতারক সেন্ডার আইডি (' + sender + '): সরকারি সংস্থা, পুলিশ বা ব্যাংক কখনোই এই নাম ব্যবহার করে না।'
+                });
+            }
 
             if (/^01[3-9]\d{8}$/.test(normSender)) {
                 score += 40;
@@ -532,7 +611,7 @@
                 });
             }
 
-            if (/(মামলা|ওয়ারেন্ট|গ্রেফতার|আদালত|ট্রাইব্যুনাল|সাইবার পুলিশ|mamla|warrant|court|tribunal)/i.test(body) && !/\.gov\.bd/i.test(body)) {
+            if (/(মামলা|ওয়ারেন্ট|গ্রেফতার|আদালত|ট্রাইব্যুনাল|সাইবার পুলিশ|সাইবার ক্রাইম|পুলিশ কন্ট্রোল|mamla|warrant|court|tribunal)/i.test(body) && !/\.gov\.bd/i.test(body)) {
                 score += 55;
                 indicators.push({
                     severity: 'high',
@@ -541,7 +620,8 @@
                 });
             }
 
-            if (/(pin|otp|password|cvv|পিন|ওটিপি|গোপন কোড|পাসওয়ার্ড)/i.test(body)) {
+            const isOfficialOtpWarning = /(never share|do not share|কখনোই কারো সাথে শেয়ার করবেন না|জানতে চায় না)/i.test(body);
+            if (!isOfficialOtpWarning && /(pin|otp|password|cvv|পিন|ওটিপি|গোপন কোড|পাসওয়ার্ড|কোডটি শেয়ার করুন|কোডটি এই নম্বরে পাঠান)/i.test(body)) {
                 score += 45;
                 indicators.push({
                     severity: 'high',
@@ -550,32 +630,40 @@
                 });
             }
 
-            if (/(ভুল করে|ভুলে টাকা|ফেরত দিন|টাকা চলে গেছে|mistakenly sent)/i.test(body)) {
-                score += 40;
+            if (/(ভুল করে|ভুলে টাকা|ভুলে আপনার নম্বরে|ফেরত দিন|টাকা চলে গেছে|হিসাব মিলছে না|mistakenly sent)/i.test(body)) {
+                score += 45;
                 indicators.push({
                     severity: 'high',
-                    en: 'Fake "Wrong Cash-In" Reversal Scam: Check your real balance in the official app first.',
-                    bn: 'ভুয়া "ভুলে টাকা চলে গেছে" প্রতারণা: টাকা ফেরত দেওয়ার আগে অফিসিয়াল অ্যাপে আসল ব্যালেন্স চেক করুন।'
+                    en: 'Fake "Wrong Cash-In / Agent Mistake" Reversal Scam: Check your real balance in the official app first.',
+                    bn: 'ভুয়া "ভুলে টাকা চলে গেছে / এজেন্ট ভুল" প্রতারণা: টাকা ফেরত দেওয়ার আগে অফিসিয়াল অ্যাপে আসল ব্যালেন্স চেক করুন।'
                 });
             }
 
-            if (/(https?:\/\/|www\.|\.xyz|\.top|\.apk|anydesk|teamviewer)/i.test(body) && !hasTrustedDomain) {
-                score += 40;
+            if (/(https?:\/\/|www\.|\.xyz|\.top|\.info|\.apk|anydesk|teamviewer|t\.me\/)/i.test(body) && !hasTrustedDomain) {
+                score += 45;
                 indicators.push({
                     severity: 'high',
-                    en: 'Suspicious Phishing / .APK Link detected.',
-                    bn: 'সন্দেহজনক ফিশিং বা .APK লিংক শনাক্ত হয়েছে।'
+                    en: 'Suspicious Phishing / AnyDesk / .APK Link detected.',
+                    bn: 'সন্দেহজনক ফিশিং, AnyDesk বা .APK লিংক শনাক্ত হয়েছে।'
                 });
             } else if (hasTrustedDomain && score <= 10) {
                 indicators.push({
                     severity: 'safe',
-                    en: 'Verified Official Bangladesh Telecom / Bank / Gov Domain detected (e.g., mygp.li / .gov.bd).',
+                    en: 'Verified Official Bangladesh Telecom / Bank / Gov Domain detected.',
                     bn: 'ভেরিফায়েড অফিসিয়াল বাংলাদেশ টেলিকম/ব্যাংক/সরকারি ডোমেইন শনাক্ত হয়েছে।'
                 });
             }
 
             score = Math.max(0, Math.min(100, score));
             renderSmsAnalysisResult(score, indicators);
+        }
+
+        function testRandomFromDataset(type) {
+            const pool = type === 'fake' ? [{"id": "[FAKE-001]", "sender": "BTRC-INFO", "body": "সম্মানিত DHAKABANK গ্রাহক, আপনার কার্ড থেকে 50,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।"}, {"id": "[FAKE-017]", "sender": "CYBER-POLICE", "body": "সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01355786925 নম্বরে কল দিন।"}, {"id": "[FAKE-033]", "sender": "BTRC-INFO", "body": "Cash Out Tk 3,000.00 to 01672985261 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01668954097)।"}, {"id": "[FAKE-049]", "sender": "CYBER-POLICE", "body": "Cash In Tk 8,500.00 from 01747720343 successful. Balance Tk 3,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01327959858 নম্বরে Send Money করে ফেরত দিন)।"}, {"id": "[FAKE-065]", "sender": "BKASH-OFFER", "body": "You have received Tk 2,450.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net"}, {"id": "[FAKE-081]", "sender": "NAGAD-WIN", "body": "Urgent Notice from AGRANIBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd50.top"}, {"id": "[FAKE-097]", "sender": "NAGAD-WIN", "body": "Urgent Notice from MTB: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd69.top"}, {"id": "[FAKE-113]", "sender": "NAGAD-WIN", "body": "সুখবর! নগদ দিচ্ছে মাত্র ২% সুদে 8,500.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top"}, {"id": "[FAKE-129]", "sender": "DBBL-ALERT", "body": "আপনার রকেট একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 757203 কোডটি এই নম্বরে পাঠান।"}, {"id": "[FAKE-145]", "sender": "DBBL-ALERT", "body": "Dear Customer, your EXIMBANK internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info"}, {"id": "[FAKE-161]", "sender": "CYBER-POLICE", "body": "অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 10,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-61.xyz"}, {"id": "[FAKE-177]", "sender": "BTRC-INFO", "body": "Cash Out Tk 1,500.00 to 01717338416 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01821365339)।"}, {"id": "[FAKE-193]", "sender": "+8801583623737", "body": "You have received Tk 3,000.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net"}, {"id": "[FAKE-209]", "sender": "NAGAD-WIN", "body": "Cash In Tk 10,000.00 from 01518718712 successful. Balance Tk 15,200.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01652650741 নম্বরে Send Money করে ফেরত দিন)।"}, {"id": "[FAKE-225]", "sender": "BKASH-OFFER", "body": "আপনার UCB একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01921294994 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।"}, {"id": "[FAKE-241]", "sender": "BKASH-OFFER", "body": "আপনার নগদ একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 924640 কোডটি এই নম্বরে পাঠান।"}, {"id": "[FAKE-257]", "sender": "NAGAD-WIN", "body": "আপনার বিকাশ একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 539864 কোডটি এই নম্বরে পাঠান।"}, {"id": "[FAKE-273]", "sender": "DBBL-ALERT", "body": "আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 50,000.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01575560530 নম্বরে টাকাটা ফেরত দিন।"}, {"id": "[FAKE-289]", "sender": "NAGAD-WIN", "body": "You have received Tk 500.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net"}, {"id": "[FAKE-305]", "sender": "BKASH-OFFER", "body": "ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01871134711, নতুবা একাউন্ট জব্দ হবে।"}, {"id": "[FAKE-321]", "sender": "+8801681816562", "body": "ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_225"}, {"id": "[FAKE-337]", "sender": "BKASH-OFFER", "body": "Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01577105081 for instant help."}, {"id": "[FAKE-353]", "sender": "BKASH-OFFER", "body": "ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_300"}, {"id": "[FAKE-369]", "sender": "BTRC-INFO", "body": "You have received Tk 25,000.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net"}, {"id": "[FAKE-385]", "sender": "BTRC-INFO", "body": "সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01596016669 নম্বরে কল দিন।"}, {"id": "[FAKE-401]", "sender": "DBBL-ALERT", "body": "ONEBANK Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk"}, {"id": "[FAKE-417]", "sender": "CYBER-POLICE", "body": "Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01375268411 for instant help."}, {"id": "[FAKE-433]", "sender": "+8801623458588", "body": "সম্মানিত EXIMBANK গ্রাহক, আপনার কার্ড থেকে 2,450.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।"}, {"id": "[FAKE-449]", "sender": "CYBER-POLICE", "body": "আপনার BRACBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01670687271 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।"}, {"id": "[FAKE-465]", "sender": "BTRC-INFO", "body": "Cash Out Tk 2,450.00 to 01672544187 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01579149818)।"}] : [{"id": "[REAL-001]", "sender": "IBBL", "body": "Assalamu Alaikum. Your A/C 2050147***529 has been credited with BDT 15,200.00 on 14-NOV-26. Current Balance BDT 10,000.00. Islami Bank Bangladesh PLC."}, {"id": "[REAL-017]", "sender": "bKash", "body": "Cash In Tk 50,000.00 from 01978947181 successful. Fee Tk 0.00. Balance Tk 2,450.00. TrxID JUCWN3JNWW at 14/11/2026 10:30."}, {"id": "[REAL-033]", "sender": "BANKASIA", "body": "Alert: Your A/C 462***460 has been credited with BDT 500.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 500.00."}, {"id": "[REAL-049]", "sender": "DBBL", "body": "Your DBBL A/C 101.298***446 has been debited by BDT 2,450.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 25,000.00. Helpline: 16216."}, {"id": "[REAL-065]", "sender": "bKash", "body": "Cash In Tk 50,000.00 from 01969516052 successful. Fee Tk 0.00. Balance Tk 5,000.00. TrxID FGLY04H86G at 14/11/2026 10:30."}, {"id": "[REAL-081]", "sender": "bKash", "body": "Your bKash Verification Code is 354992. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code."}, {"id": "[REAL-097]", "sender": "CELLFIN", "body": "CellFin: Fund Transfer Tk 10,000.00 to A/C 2050569***495 successful. Fee Tk 0.00. Balance Tk 2,450.00. TrxID CF9351997."}, {"id": "[REAL-113]", "sender": "DBBL", "body": "One-Time Password (OTP) for your internet banking fund transfer of BDT 8,500.00 is 484164. Never share your OTP with anyone."}, {"id": "[REAL-129]", "sender": "bKash", "body": "Cash In Tk 5,000.00 from 01349923091 successful. Fee Tk 0.00. Balance Tk 15,200.00. TrxID BR3T4H6NEL at 14/11/2026 10:30."}, {"id": "[REAL-145]", "sender": "bKash", "body": "Your bKash Verification Code is 321204. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code."}, {"id": "[REAL-161]", "sender": "UPAY", "body": "Send Money Tk 8,500.00 to 01713227398 is successful. Fee Tk 0.00. Current Balance Tk 5,000.00. TrxID UP2661153."}, {"id": "[REAL-177]", "sender": "16247", "body": "প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 2,450.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID ENRK28JXA2। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।"}, {"id": "[REAL-193]", "sender": "EBL", "body": "Alert: Your A/C 232***129 has been credited with BDT 5,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 500.00."}, {"id": "[REAL-209]", "sender": "DBBL", "body": "Your DBBL A/C 101.277***132 has been debited by BDT 3,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 2,450.00. Helpline: 16216."}, {"id": "[REAL-225]", "sender": "EBL", "body": "EBL Alert: Purchase of BDT 10,000.00 at AARONG using EBL VISA Card 4321****3354 on 14/11/26. Available Balance: BDT 1,020.00."}, {"id": "[REAL-241]", "sender": "IBBL", "body": "Assalamu Alaikum. Your A/C 2050299***716 has been credited with BDT 3,000.00 on 14-NOV-26. Current Balance BDT 50,000.00. Islami Bank Bangladesh PLC."}, {"id": "[REAL-257]", "sender": "NAGAD", "body": "আপনার নগদ ওটিপি (OTP) হলো 975355। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।"}, {"id": "[REAL-273]", "sender": "MTB", "body": "Mutual Trust Bank: OTP for your online transaction of BDT 500.00 is 473489. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219."}, {"id": "[REAL-289]", "sender": "16247", "body": "প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 10,000.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID J4GZ9TEGLU। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।"}, {"id": "[REAL-305]", "sender": "SCB", "body": "Alert: Your A/C 187***596 has been credited with BDT 1,500.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 500.00."}, {"id": "[REAL-321]", "sender": "NAGAD", "body": "Cash Out Tk 2,450.00 to 01981094803 successful. Fee Tk 18.50. Balance Tk 10,000.00. TrxID 06VKRRGX at 14/11/2026 14:15."}, {"id": "[REAL-337]", "sender": "MTB", "body": "Mutual Trust Bank: OTP for your online transaction of BDT 3,000.00 is 620075. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219."}, {"id": "[REAL-353]", "sender": "BANKASIA", "body": "One-Time Password (OTP) for your internet banking fund transfer of BDT 8,500.00 is 436660. Never share your OTP with anyone."}, {"id": "[REAL-369]", "sender": "MTB", "body": "Mutual Trust Bank: OTP for your online transaction of BDT 8,500.00 is 778609. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219."}, {"id": "[REAL-385]", "sender": "NAGAD", "body": "Cash Out Tk 8,500.00 to 01383304783 successful. Fee Tk 18.50. Balance Tk 2,450.00. TrxID 9YQMPAED at 14/11/2026 14:15."}, {"id": "[REAL-401]", "sender": "16216", "body": "Rocket: Cash-In Tk 10,000.00 from A/C 018189185109; Fee Tk 0.00; Balance Tk 2,450.00; TrxID 9174467549; Date 14-Nov-2026."}, {"id": "[REAL-417]", "sender": "16216", "body": "Rocket: Cash-In Tk 15,200.00 from A/C 016843012859; Fee Tk 0.00; Balance Tk 50,000.00; TrxID 9910883855; Date 14-Nov-2026."}, {"id": "[REAL-433]", "sender": "16216", "body": "Rocket: Cash-In Tk 50,000.00 from A/C 019733329859; Fee Tk 0.00; Balance Tk 2,450.00; TrxID 2873918147; Date 14-Nov-2026."}, {"id": "[REAL-449]", "sender": "bKash", "body": "সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।"}, {"id": "[REAL-465]", "sender": "DBBL", "body": "Alert: Your A/C 484***548 has been credited with BDT 50,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 2,450.00."}];
+            const pick = pool[Math.floor(Math.random() * pool.length)];
+            document.getElementById('sms-sender-input').value = pick.sender;
+            document.getElementById('sms-body-input').value = pick.body;
+            analyzeSmsMessage();
         }
 
         function renderSmsAnalysisResult(score, indicators) {
