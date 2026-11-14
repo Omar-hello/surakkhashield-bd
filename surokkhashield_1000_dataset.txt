@@ -1,0 +1,1012 @@
+================================================================================
+SUROKKHASHIELD BD - 1,000 SMS DATASET (500 FAKE & 500 REAL)
+Format: [ID] | [LABEL] | [SENDER] | [MESSAGE BODY]
+================================================================================
+
+--------------------------------------------------------------------------------
+PART 1: 500 FAKE / SCAM SMS
+--------------------------------------------------------------------------------
+[FAKE-001] | FAKE | BTRC-INFO | সম্মানিত DHAKABANK গ্রাহক, আপনার কার্ড থেকে 50,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-002] | FAKE | BTRC-INFO | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01674319395 for instant help.
+[FAKE-003] | FAKE | BTRC-INFO | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 1,500.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01830793562 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-004] | FAKE | CYBER-POLICE | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-118/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01872570229
+[FAKE-005] | FAKE | CYBER-POLICE | Cash Out Tk 10,000.00 to 01897453102 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01785977854)।
+[FAKE-006] | FAKE | +8801471867109 | আপনার নগদ একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 849350 কোডটি এই নম্বরে পাঠান।
+[FAKE-007] | FAKE | BTRC-INFO | সুখবর! বিকাশ দিচ্ছে মাত্র ২% সুদে 15,200.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-008] | FAKE | NAGAD-WIN | You have received Tk 5,000.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-009] | FAKE | +8801470035488 | Cash Out Tk 1,020.00 to 01731467633 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01756296427)।
+[FAKE-010] | FAKE | CYBER-POLICE | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app6.apk
+[FAKE-011] | FAKE | +8801556236261 | Urgent Notice from PRIMEBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd95.top
+[FAKE-012] | FAKE | +8801895596602 | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_425
+[FAKE-013] | FAKE | CYBER-POLICE | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app5.apk
+[FAKE-014] | FAKE | CYBER-POLICE | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_119
+[FAKE-015] | FAKE | CYBER-POLICE | সম্মানিত SOUTHEAST গ্রাহক, আপনার কার্ড থেকে 10,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-016] | FAKE | CYBER-POLICE | Urgent Notice from PUBALIBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd37.top
+[FAKE-017] | FAKE | CYBER-POLICE | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01355786925 নম্বরে কল দিন।
+[FAKE-018] | FAKE | DBBL-ALERT | Urgent Notice from AGRANIBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd57.top
+[FAKE-019] | FAKE | NAGAD-WIN | সুখবর! নগদ দিচ্ছে মাত্র ২% সুদে 1,500.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-020] | FAKE | BTRC-INFO | Cash Out Tk 1,500.00 to 01897077887 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01960556848)।
+[FAKE-021] | FAKE | BKASH-OFFER | Cash In Tk 8,500.00 from 01325047657 successful. Balance Tk 3,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01693319510 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-022] | FAKE | NAGAD-WIN | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app3.apk
+[FAKE-023] | FAKE | +8801461379597 | Urgent Notice from PRIMEBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd50.top
+[FAKE-024] | FAKE | +8801816807181 | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 8,500.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01961122852 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-025] | FAKE | NAGAD-WIN | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app7.apk
+[FAKE-026] | FAKE | BTRC-INFO | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 500.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01814686386 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-027] | FAKE | DBBL-ALERT | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_607
+[FAKE-028] | FAKE | DBBL-ALERT | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-724/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01983943213
+[FAKE-029] | FAKE | DBBL-ALERT | অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 8,500.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-96.xyz
+[FAKE-030] | FAKE | BTRC-INFO | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01763272289 for instant help.
+[FAKE-031] | FAKE | +8801565409752 | Urgent Notice from AIBL: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd44.top
+[FAKE-032] | FAKE | CYBER-POLICE | আপনার SONALIBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01575071695 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-033] | FAKE | BTRC-INFO | Cash Out Tk 3,000.00 to 01672985261 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01668954097)।
+[FAKE-034] | FAKE | +8801511473213 | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app8.apk
+[FAKE-035] | FAKE | DBBL-ALERT | আপনার উপায় একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 325764 কোডটি এই নম্বরে পাঠান।
+[FAKE-036] | FAKE | DBBL-ALERT | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01911599732, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-037] | FAKE | BKASH-OFFER | Cash In Tk 3,000.00 from 01874041537 successful. Balance Tk 5,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01547929993 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-038] | FAKE | BTRC-INFO | AGRANIBANK Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-039] | FAKE | CYBER-POLICE | Cash In Tk 25,000.00 from 01994799921 successful. Balance Tk 2,450.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01817432635 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-040] | FAKE | +8801350195376 | সুখবর! নগদ দিচ্ছে মাত্র ২% সুদে 5,000.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-041] | FAKE | BTRC-INFO | Cash In Tk 1,500.00 from 01856847696 successful. Balance Tk 15,200.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01775833081 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-042] | FAKE | CYBER-POLICE | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 500.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01924551726 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-043] | FAKE | DBBL-ALERT | You have received Tk 1,020.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-044] | FAKE | +8801739871834 | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01619892665, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-045] | FAKE | BTRC-INFO | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_688
+[FAKE-046] | FAKE | BTRC-INFO | সুখবর! নগদ দিচ্ছে মাত্র ২% সুদে 15,200.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-047] | FAKE | NAGAD-WIN | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01328803701 for instant help.
+[FAKE-048] | FAKE | DBBL-ALERT | SCB Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-049] | FAKE | CYBER-POLICE | Cash In Tk 8,500.00 from 01747720343 successful. Balance Tk 3,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01327959858 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-050] | FAKE | NAGAD-WIN | আপনার AIBL একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01569952770 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-051] | FAKE | BTRC-INFO | আপনার MERCANTILE একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01989814439 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-052] | FAKE | BKASH-OFFER | Cash In Tk 2,450.00 from 01591361967 successful. Balance Tk 500.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01337084680 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-053] | FAKE | BTRC-INFO | সম্মানিত TRUSTBANK গ্রাহক, আপনার কার্ড থেকে 3,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-054] | FAKE | NAGAD-WIN | সুখবর! বিকাশ দিচ্ছে মাত্র ২% সুদে 3,000.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-055] | FAKE | BTRC-INFO | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_237
+[FAKE-056] | FAKE | BTRC-INFO | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01392106826 for instant help.
+[FAKE-057] | FAKE | BKASH-OFFER | Urgent Notice from SOUTHEAST: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd38.top
+[FAKE-058] | FAKE | DBBL-ALERT | Cash Out Tk 500.00 to 01371625423 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01732347220)।
+[FAKE-059] | FAKE | BTRC-INFO | Cash In Tk 1,500.00 from 01923399532 successful. Balance Tk 1,020.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01889404600 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-060] | FAKE | BTRC-INFO | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01865900435 for instant help.
+[FAKE-061] | FAKE | NAGAD-WIN | অভিনন্দন! বিকাশ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 1,500.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-77.xyz
+[FAKE-062] | FAKE | BKASH-OFFER | অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 2,450.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-78.xyz
+[FAKE-063] | FAKE | BKASH-OFFER | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01686760435, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-064] | FAKE | +8801989903234 | সুখবর! বিকাশ দিচ্ছে মাত্র ২% সুদে 3,000.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-065] | FAKE | BKASH-OFFER | You have received Tk 2,450.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-066] | FAKE | BTRC-INFO | সুখবর! নগদ দিচ্ছে মাত্র ২% সুদে 3,000.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-067] | FAKE | CYBER-POLICE | You have received Tk 5,000.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-068] | FAKE | BKASH-OFFER | Cash Out Tk 3,000.00 to 01763830018 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01630089959)।
+[FAKE-069] | FAKE | +8801336394623 | Cash Out Tk 1,020.00 to 01374204199 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01321174164)।
+[FAKE-070] | FAKE | BKASH-OFFER | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01367031746 for instant help.
+[FAKE-071] | FAKE | DBBL-ALERT | BRACBANK Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-072] | FAKE | DBBL-ALERT | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_912
+[FAKE-073] | FAKE | +8801568122895 | আপনার AGRANIBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01351644363 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-074] | FAKE | BKASH-OFFER | আপনার EBL একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01675605572 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-075] | FAKE | BTRC-INFO | CITYBANK Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-076] | FAKE | CYBER-POLICE | সুখবর! নগদ দিচ্ছে মাত্র ২% সুদে 500.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-077] | FAKE | BTRC-INFO | অভিনন্দন! বিকাশ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 8,500.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-73.xyz
+[FAKE-078] | FAKE | +8801612071425 | Dear Customer, your SONALIBANK internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-079] | FAKE | DBBL-ALERT | সম্মানিত IBBL গ্রাহক, আপনার কার্ড থেকে 500.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-080] | FAKE | BKASH-OFFER | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-425/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01834843097
+[FAKE-081] | FAKE | NAGAD-WIN | Urgent Notice from AGRANIBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd50.top
+[FAKE-082] | FAKE | CYBER-POLICE | You have received Tk 25,000.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-083] | FAKE | CYBER-POLICE | Cash In Tk 5,000.00 from 01680309146 successful. Balance Tk 3,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01513590785 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-084] | FAKE | BKASH-OFFER | আপনার ABBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01528919994 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-085] | FAKE | BTRC-INFO | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app3.apk
+[FAKE-086] | FAKE | DBBL-ALERT | ABBANK Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-087] | FAKE | NAGAD-WIN | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_975
+[FAKE-088] | FAKE | CYBER-POLICE | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01688578832 for instant help.
+[FAKE-089] | FAKE | BTRC-INFO | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01669840075 for instant help.
+[FAKE-090] | FAKE | CYBER-POLICE | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01317270291 নম্বরে কল দিন।
+[FAKE-091] | FAKE | +8801495686779 | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_966
+[FAKE-092] | FAKE | BTRC-INFO | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 5,000.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01824950977 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-093] | FAKE | BKASH-OFFER | Urgent Notice from ONEBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd62.top
+[FAKE-094] | FAKE | BTRC-INFO | অভিনন্দন! নগদ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 8,500.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-46.xyz
+[FAKE-095] | FAKE | DBBL-ALERT | আপনার SCB একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01931414926 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-096] | FAKE | DBBL-ALERT | Cash In Tk 3,000.00 from 01798939943 successful. Balance Tk 10,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01852528189 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-097] | FAKE | NAGAD-WIN | Urgent Notice from MTB: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd69.top
+[FAKE-098] | FAKE | CYBER-POLICE | অভিনন্দন! বিকাশ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 25,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-29.xyz
+[FAKE-099] | FAKE | CYBER-POLICE | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-600/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01878377584
+[FAKE-100] | FAKE | DBBL-ALERT | সুখবর! নগদ দিচ্ছে মাত্র ২% সুদে 8,500.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-101] | FAKE | BTRC-INFO | সুখবর! নগদ দিচ্ছে মাত্র ২% সুদে 8,500.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-102] | FAKE | NAGAD-WIN | BRACBANK Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-103] | FAKE | DBBL-ALERT | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-470/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01367721214
+[FAKE-104] | FAKE | NAGAD-WIN | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-173/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01773414867
+[FAKE-105] | FAKE | DBBL-ALERT | BANKASIA Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-106] | FAKE | BTRC-INFO | Cash In Tk 8,500.00 from 01314618276 successful. Balance Tk 2,450.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01889786396 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-107] | FAKE | BTRC-INFO | Dear Customer, your IBBL internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-108] | FAKE | +8801771659244 | Dear Customer, your SOUTHEAST internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-109] | FAKE | +8801742972583 | আপনার রকেট একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 254970 কোডটি এই নম্বরে পাঠান।
+[FAKE-110] | FAKE | CYBER-POLICE | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app4.apk
+[FAKE-111] | FAKE | CYBER-POLICE | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_328
+[FAKE-112] | FAKE | +8801466112817 | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01321436204 নম্বরে কল দিন।
+[FAKE-113] | FAKE | NAGAD-WIN | সুখবর! নগদ দিচ্ছে মাত্র ২% সুদে 8,500.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-114] | FAKE | BTRC-INFO | PUBALIBANK Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-115] | FAKE | BKASH-OFFER | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01926589390, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-116] | FAKE | NAGAD-WIN | অভিনন্দন! বিকাশ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 50,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-57.xyz
+[FAKE-117] | FAKE | +8801554677306 | আপনার PUBALIBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01597594583 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-118] | FAKE | BKASH-OFFER | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app1.apk
+[FAKE-119] | FAKE | BTRC-INFO | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01971617434 নম্বরে কল দিন।
+[FAKE-120] | FAKE | CYBER-POLICE | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-892/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01839360293
+[FAKE-121] | FAKE | BKASH-OFFER | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-676/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01539196996
+[FAKE-122] | FAKE | BTRC-INFO | আপনার PRIMEBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01526192189 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-123] | FAKE | BTRC-INFO | Cash In Tk 2,450.00 from 01810030859 successful. Balance Tk 1,020.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01314118527 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-124] | FAKE | BTRC-INFO | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01544541355 নম্বরে কল দিন।
+[FAKE-125] | FAKE | DBBL-ALERT | Dear Customer, your JAMUNABANK internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-126] | FAKE | NAGAD-WIN | Cash In Tk 500.00 from 01612516527 successful. Balance Tk 500.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01723188204 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-127] | FAKE | CYBER-POLICE | Cash Out Tk 1,500.00 to 01340313911 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01966572338)।
+[FAKE-128] | FAKE | NAGAD-WIN | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app6.apk
+[FAKE-129] | FAKE | DBBL-ALERT | আপনার রকেট একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 757203 কোডটি এই নম্বরে পাঠান।
+[FAKE-130] | FAKE | CYBER-POLICE | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_499
+[FAKE-131] | FAKE | BKASH-OFFER | You have received Tk 2,450.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-132] | FAKE | NAGAD-WIN | DHAKABANK Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-133] | FAKE | NAGAD-WIN | Urgent Notice from NCCBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd95.top
+[FAKE-134] | FAKE | DBBL-ALERT | সুখবর! বিকাশ দিচ্ছে মাত্র ২% সুদে 2,450.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-135] | FAKE | NAGAD-WIN | You have received Tk 25,000.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-136] | FAKE | CYBER-POLICE | আপনার নগদ একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 973628 কোডটি এই নম্বরে পাঠান।
+[FAKE-137] | FAKE | DBBL-ALERT | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01991854939 for instant help.
+[FAKE-138] | FAKE | BKASH-OFFER | সম্মানিত UCB গ্রাহক, আপনার কার্ড থেকে 25,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-139] | FAKE | BKASH-OFFER | সম্মানিত ONEBANK গ্রাহক, আপনার কার্ড থেকে 10,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-140] | FAKE | DBBL-ALERT | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01520040313 নম্বরে কল দিন।
+[FAKE-141] | FAKE | DBBL-ALERT | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01565243949, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-142] | FAKE | BKASH-OFFER | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01344479808 for instant help.
+[FAKE-143] | FAKE | NAGAD-WIN | সুখবর! বিকাশ দিচ্ছে মাত্র ২% সুদে 2,450.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-144] | FAKE | DBBL-ALERT | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01564222683 নম্বরে কল দিন।
+[FAKE-145] | FAKE | DBBL-ALERT | Dear Customer, your EXIMBANK internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-146] | FAKE | BKASH-OFFER | আপনার রকেট একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 198846 কোডটি এই নম্বরে পাঠান।
+[FAKE-147] | FAKE | BKASH-OFFER | Cash Out Tk 3,000.00 to 01872187312 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01992298814)।
+[FAKE-148] | FAKE | BKASH-OFFER | Cash Out Tk 2,450.00 to 01514427593 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01930399933)।
+[FAKE-149] | FAKE | DBBL-ALERT | Cash In Tk 1,020.00 from 01836625077 successful. Balance Tk 15,200.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01579926970 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-150] | FAKE | CYBER-POLICE | Cash In Tk 500.00 from 01737821297 successful. Balance Tk 3,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01958312117 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-151] | FAKE | NAGAD-WIN | SOUTHEAST Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-152] | FAKE | BKASH-OFFER | সম্মানিত SOUTHEAST গ্রাহক, আপনার কার্ড থেকে 5,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-153] | FAKE | NAGAD-WIN | Dear Customer, your AGRANIBANK internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-154] | FAKE | NAGAD-WIN | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_573
+[FAKE-155] | FAKE | +8801999932082 | DBBL Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-156] | FAKE | BTRC-INFO | Cash In Tk 500.00 from 01549297014 successful. Balance Tk 3,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01611583147 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-157] | FAKE | NAGAD-WIN | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-547/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01977207574
+[FAKE-158] | FAKE | DBBL-ALERT | You have received Tk 8,500.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-159] | FAKE | DBBL-ALERT | আপনার DBBL একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01678204127 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-160] | FAKE | NAGAD-WIN | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01944005607, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-161] | FAKE | CYBER-POLICE | অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 10,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-61.xyz
+[FAKE-162] | FAKE | +8801671939316 | Cash In Tk 3,000.00 from 01533293593 successful. Balance Tk 25,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01338089649 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-163] | FAKE | BKASH-OFFER | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_261
+[FAKE-164] | FAKE | NAGAD-WIN | Cash Out Tk 5,000.00 to 01851583722 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01650804849)।
+[FAKE-165] | FAKE | BKASH-OFFER | Dear Customer, your SONALIBANK internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-166] | FAKE | CYBER-POLICE | আপনার JANATABANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01657893778 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-167] | FAKE | +8801820305012 | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_708
+[FAKE-168] | FAKE | NAGAD-WIN | Cash In Tk 8,500.00 from 01854230234 successful. Balance Tk 1,020.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01938748746 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-169] | FAKE | DBBL-ALERT | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-358/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01369026622
+[FAKE-170] | FAKE | BKASH-OFFER | TRUSTBANK Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-171] | FAKE | DBBL-ALERT | You have received Tk 8,500.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-172] | FAKE | NAGAD-WIN | Dear Customer, your AGRANIBANK internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-173] | FAKE | +8801546254544 | আপনার বিকাশ একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 364851 কোডটি এই নম্বরে পাঠান।
+[FAKE-174] | FAKE | CYBER-POLICE | You have received Tk 10,000.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-175] | FAKE | BKASH-OFFER | EBL Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-176] | FAKE | BTRC-INFO | আপনার উপায় একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 235655 কোডটি এই নম্বরে পাঠান।
+[FAKE-177] | FAKE | BTRC-INFO | Cash Out Tk 1,500.00 to 01717338416 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01821365339)।
+[FAKE-178] | FAKE | CYBER-POLICE | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01999024649 for instant help.
+[FAKE-179] | FAKE | NAGAD-WIN | Cash In Tk 1,500.00 from 01370901127 successful. Balance Tk 8,500.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01681256063 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-180] | FAKE | NAGAD-WIN | You have received Tk 10,000.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-181] | FAKE | +8801728878049 | অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 1,500.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-20.xyz
+[FAKE-182] | FAKE | BTRC-INFO | অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 15,200.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-30.xyz
+[FAKE-183] | FAKE | DBBL-ALERT | Cash Out Tk 1,500.00 to 01539706513 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01711903083)।
+[FAKE-184] | FAKE | CYBER-POLICE | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01843587118 for instant help.
+[FAKE-185] | FAKE | BTRC-INFO | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 8,500.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01780068629 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-186] | FAKE | DBBL-ALERT | Cash Out Tk 2,450.00 to 01793531308 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01541468818)।
+[FAKE-187] | FAKE | BTRC-INFO | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app1.apk
+[FAKE-188] | FAKE | CYBER-POLICE | সম্মানিত IBBL গ্রাহক, আপনার কার্ড থেকে 5,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-189] | FAKE | NAGAD-WIN | Cash In Tk 1,020.00 from 01922399921 successful. Balance Tk 50,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01821837904 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-190] | FAKE | NAGAD-WIN | Cash In Tk 10,000.00 from 01854802723 successful. Balance Tk 2,450.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01870033011 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-191] | FAKE | DBBL-ALERT | Dear Customer, your MTB internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-192] | FAKE | CYBER-POLICE | Dear Customer, your SOUTHEAST internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-193] | FAKE | +8801583623737 | You have received Tk 3,000.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-194] | FAKE | BTRC-INFO | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app6.apk
+[FAKE-195] | FAKE | BTRC-INFO | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app4.apk
+[FAKE-196] | FAKE | BTRC-INFO | Urgent Notice from ONEBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd37.top
+[FAKE-197] | FAKE | NAGAD-WIN | অভিনন্দন! বিকাশ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 15,200.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-64.xyz
+[FAKE-198] | FAKE | BTRC-INFO | Dear Customer, your SOUTHEAST internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-199] | FAKE | +8801990917643 | আপনার সেলফিন একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 745464 কোডটি এই নম্বরে পাঠান।
+[FAKE-200] | FAKE | CYBER-POLICE | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_435
+[FAKE-201] | FAKE | +8801916912184 | Dear Customer, your DBBL internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-202] | FAKE | +8801350703912 | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01667053748 নম্বরে কল দিন।
+[FAKE-203] | FAKE | CYBER-POLICE | আপনার BRACBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01856599777 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-204] | FAKE | BTRC-INFO | Cash Out Tk 15,200.00 to 01331131420 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01532998796)।
+[FAKE-205] | FAKE | +8801579574865 | আপনার PRIMEBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01369687471 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-206] | FAKE | BKASH-OFFER | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-658/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01548337425
+[FAKE-207] | FAKE | DBBL-ALERT | You have received Tk 500.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-208] | FAKE | CYBER-POLICE | আপনার বিকাশ একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 432034 কোডটি এই নম্বরে পাঠান।
+[FAKE-209] | FAKE | NAGAD-WIN | Cash In Tk 10,000.00 from 01518718712 successful. Balance Tk 15,200.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01652650741 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-210] | FAKE | BKASH-OFFER | আপনার রকেট একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 852246 কোডটি এই নম্বরে পাঠান।
+[FAKE-211] | FAKE | BKASH-OFFER | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app2.apk
+[FAKE-212] | FAKE | CYBER-POLICE | MTB Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-213] | FAKE | NAGAD-WIN | Dear Customer, your SOUTHEAST internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-214] | FAKE | DBBL-ALERT | আপনার ONEBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01969228657 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-215] | FAKE | +8801820640707 | আপনার সেলফিন একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 656845 কোডটি এই নম্বরে পাঠান।
+[FAKE-216] | FAKE | BTRC-INFO | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 3,000.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01314649356 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-217] | FAKE | NAGAD-WIN | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 5,000.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01373110667 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-218] | FAKE | NAGAD-WIN | সুখবর! নগদ দিচ্ছে মাত্র ২% সুদে 8,500.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-219] | FAKE | DBBL-ALERT | অভিনন্দন! নগদ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 15,200.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-18.xyz
+[FAKE-220] | FAKE | +8801380945397 | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01646042010 for instant help.
+[FAKE-221] | FAKE | BKASH-OFFER | আপনার রকেট একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 857035 কোডটি এই নম্বরে পাঠান।
+[FAKE-222] | FAKE | DBBL-ALERT | Dear Customer, your SOUTHEAST internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-223] | FAKE | BKASH-OFFER | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-728/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01971371156
+[FAKE-224] | FAKE | NAGAD-WIN | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 1,500.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01899665828 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-225] | FAKE | BKASH-OFFER | আপনার UCB একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01921294994 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-226] | FAKE | BKASH-OFFER | You have received Tk 25,000.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-227] | FAKE | +8801328734646 | NCCBANK Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-228] | FAKE | NAGAD-WIN | Cash In Tk 50,000.00 from 01359061426 successful. Balance Tk 2,450.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01875626274 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-229] | FAKE | +8801350753797 | Cash Out Tk 1,020.00 to 01953774604 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01773397485)।
+[FAKE-230] | FAKE | BKASH-OFFER | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_813
+[FAKE-231] | FAKE | CYBER-POLICE | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01542390180 নম্বরে কল দিন।
+[FAKE-232] | FAKE | NAGAD-WIN | আপনার সেলফিন একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 780988 কোডটি এই নম্বরে পাঠান।
+[FAKE-233] | FAKE | BTRC-INFO | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01538454072 for instant help.
+[FAKE-234] | FAKE | BKASH-OFFER | Urgent Notice from UCB: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd62.top
+[FAKE-235] | FAKE | BKASH-OFFER | Dear Customer, your EBL internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-236] | FAKE | DBBL-ALERT | অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 5,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-21.xyz
+[FAKE-237] | FAKE | BTRC-INFO | আপনার PUBALIBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01539687396 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-238] | FAKE | +8801916758473 | সুখবর! নগদ দিচ্ছে মাত্র ২% সুদে 8,500.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-239] | FAKE | +8801593535275 | Cash In Tk 1,020.00 from 01318389740 successful. Balance Tk 8,500.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01971099971 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-240] | FAKE | NAGAD-WIN | অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 10,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-18.xyz
+[FAKE-241] | FAKE | BKASH-OFFER | আপনার নগদ একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 924640 কোডটি এই নম্বরে পাঠান।
+[FAKE-242] | FAKE | DBBL-ALERT | Dear Customer, your AIBL internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-243] | FAKE | +8801571534459 | Dear Customer, your DBBL internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-244] | FAKE | +8801399999868 | You have received Tk 2,450.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-245] | FAKE | NAGAD-WIN | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_385
+[FAKE-246] | FAKE | BKASH-OFFER | সম্মানিত ABBANK গ্রাহক, আপনার কার্ড থেকে 25,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-247] | FAKE | BKASH-OFFER | Cash In Tk 2,450.00 from 01616137750 successful. Balance Tk 2,450.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01332190879 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-248] | FAKE | +8801785188734 | Cash In Tk 15,200.00 from 01671760790 successful. Balance Tk 1,500.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01671813856 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-249] | FAKE | DBBL-ALERT | DHAKABANK Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-250] | FAKE | CYBER-POLICE | আপনার NCCBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01694552878 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-251] | FAKE | DBBL-ALERT | আপনার উপায় একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 450824 কোডটি এই নম্বরে পাঠান।
+[FAKE-252] | FAKE | BKASH-OFFER | Urgent Notice from TRUSTBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd4.top
+[FAKE-253] | FAKE | CYBER-POLICE | Dear Customer, your CITYBANK internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-254] | FAKE | CYBER-POLICE | Cash In Tk 2,450.00 from 01543733300 successful. Balance Tk 50,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01559042057 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-255] | FAKE | CYBER-POLICE | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01780893586, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-256] | FAKE | DBBL-ALERT | You have received Tk 25,000.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-257] | FAKE | NAGAD-WIN | আপনার বিকাশ একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 539864 কোডটি এই নম্বরে পাঠান।
+[FAKE-258] | FAKE | BKASH-OFFER | আপনার রকেট একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 220479 কোডটি এই নম্বরে পাঠান।
+[FAKE-259] | FAKE | DBBL-ALERT | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-730/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01526613129
+[FAKE-260] | FAKE | +8801752244698 | সুখবর! বিকাশ দিচ্ছে মাত্র ২% সুদে 15,200.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-261] | FAKE | NAGAD-WIN | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01328006278 নম্বরে কল দিন।
+[FAKE-262] | FAKE | DBBL-ALERT | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01541486513 for instant help.
+[FAKE-263] | FAKE | +8801617228610 | অভিনন্দন! নগদ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 50,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-98.xyz
+[FAKE-264] | FAKE | BKASH-OFFER | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01320047393 for instant help.
+[FAKE-265] | FAKE | DBBL-ALERT | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 2,450.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01863833453 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-266] | FAKE | DBBL-ALERT | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app5.apk
+[FAKE-267] | FAKE | BTRC-INFO | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01630181888 for instant help.
+[FAKE-268] | FAKE | BKASH-OFFER | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01544385419, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-269] | FAKE | +8801878551211 | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01837114846 for instant help.
+[FAKE-270] | FAKE | BTRC-INFO | Dear Customer, your DBBL internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-271] | FAKE | BKASH-OFFER | Dear Customer, your ABBANK internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-272] | FAKE | BKASH-OFFER | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 8,500.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01954367401 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-273] | FAKE | DBBL-ALERT | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 50,000.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01575560530 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-274] | FAKE | CYBER-POLICE | Cash Out Tk 25,000.00 to 01839007793 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01576866163)।
+[FAKE-275] | FAKE | DBBL-ALERT | আপনার সেলফিন একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 200637 কোডটি এই নম্বরে পাঠান।
+[FAKE-276] | FAKE | +8801942549220 | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01739803906 for instant help.
+[FAKE-277] | FAKE | +8801680043871 | Cash In Tk 25,000.00 from 01538100676 successful. Balance Tk 500.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01574277024 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-278] | FAKE | BKASH-OFFER | Cash In Tk 8,500.00 from 01684285888 successful. Balance Tk 8,500.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01526591778 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-279] | FAKE | +8801431036751 | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app2.apk
+[FAKE-280] | FAKE | +8801740056768 | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app2.apk
+[FAKE-281] | FAKE | NAGAD-WIN | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-942/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01682635384
+[FAKE-282] | FAKE | BKASH-OFFER | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 15,200.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01779708060 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-283] | FAKE | +8801650636972 | MERCANTILE Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-284] | FAKE | +8801619742012 | Cash In Tk 50,000.00 from 01754791201 successful. Balance Tk 3,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01880692339 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-285] | FAKE | BKASH-OFFER | সুখবর! বিকাশ দিচ্ছে মাত্র ২% সুদে 8,500.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-286] | FAKE | NAGAD-WIN | Dear Customer, your DHAKABANK internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-287] | FAKE | BTRC-INFO | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app2.apk
+[FAKE-288] | FAKE | CYBER-POLICE | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app2.apk
+[FAKE-289] | FAKE | NAGAD-WIN | You have received Tk 500.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-290] | FAKE | BKASH-OFFER | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01864343063 নম্বরে কল দিন।
+[FAKE-291] | FAKE | NAGAD-WIN | BANKASIA Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-292] | FAKE | NAGAD-WIN | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01760541587 for instant help.
+[FAKE-293] | FAKE | CYBER-POLICE | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01393533538, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-294] | FAKE | BTRC-INFO | সুখবর! বিকাশ দিচ্ছে মাত্র ২% সুদে 500.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-295] | FAKE | CYBER-POLICE | সুখবর! বিকাশ দিচ্ছে মাত্র ২% সুদে 1,020.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-296] | FAKE | +8801435712978 | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01677552260, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-297] | FAKE | BTRC-INFO | Urgent Notice from ABBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd38.top
+[FAKE-298] | FAKE | NAGAD-WIN | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01336324160, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-299] | FAKE | BKASH-OFFER | Dear Customer, your MTB internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-300] | FAKE | +8801445704910 | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01650660586 for instant help.
+[FAKE-301] | FAKE | DBBL-ALERT | Cash In Tk 500.00 from 01773324544 successful. Balance Tk 3,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01353953809 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-302] | FAKE | +8801946526338 | আপনার সেলফিন একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 348003 কোডটি এই নম্বরে পাঠান।
+[FAKE-303] | FAKE | BTRC-INFO | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 25,000.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01831630069 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-304] | FAKE | BKASH-OFFER | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 500.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01637675062 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-305] | FAKE | BKASH-OFFER | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01871134711, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-306] | FAKE | BTRC-INFO | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01351707309, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-307] | FAKE | +8801849765779 | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_123
+[FAKE-308] | FAKE | BTRC-INFO | সম্মানিত PRIMEBANK গ্রাহক, আপনার কার্ড থেকে 50,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-309] | FAKE | BTRC-INFO | Urgent Notice from CITYBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd14.top
+[FAKE-310] | FAKE | NAGAD-WIN | সম্মানিত PUBALIBANK গ্রাহক, আপনার কার্ড থেকে 1,020.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-311] | FAKE | +8801967568587 | সম্মানিত MERCANTILE গ্রাহক, আপনার কার্ড থেকে 25,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-312] | FAKE | DBBL-ALERT | You have received Tk 1,020.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-313] | FAKE | BTRC-INFO | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-882/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01679415265
+[FAKE-314] | FAKE | BKASH-OFFER | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01879831933 নম্বরে কল দিন।
+[FAKE-315] | FAKE | DBBL-ALERT | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-865/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01979973729
+[FAKE-316] | FAKE | NAGAD-WIN | Cash In Tk 2,450.00 from 01797281630 successful. Balance Tk 50,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01378064322 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-317] | FAKE | DBBL-ALERT | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_917
+[FAKE-318] | FAKE | BTRC-INFO | অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 50,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-90.xyz
+[FAKE-319] | FAKE | BTRC-INFO | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_713
+[FAKE-320] | FAKE | DBBL-ALERT | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01598190943, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-321] | FAKE | +8801681816562 | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_225
+[FAKE-322] | FAKE | CYBER-POLICE | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01329830134 নম্বরে কল দিন।
+[FAKE-323] | FAKE | CYBER-POLICE | You have received Tk 3,000.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-324] | FAKE | NAGAD-WIN | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app1.apk
+[FAKE-325] | FAKE | NAGAD-WIN | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app6.apk
+[FAKE-326] | FAKE | DBBL-ALERT | আপনার সেলফিন একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 140050 কোডটি এই নম্বরে পাঠান।
+[FAKE-327] | FAKE | DBBL-ALERT | আপনার নগদ একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 678332 কোডটি এই নম্বরে পাঠান।
+[FAKE-328] | FAKE | +8801450576252 | Cash In Tk 5,000.00 from 01515864364 successful. Balance Tk 1,500.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01315900853 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-329] | FAKE | +8801969307384 | আপনার NCCBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01941635709 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-330] | FAKE | CYBER-POLICE | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_961
+[FAKE-331] | FAKE | NAGAD-WIN | Urgent Notice from BRACBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd49.top
+[FAKE-332] | FAKE | BKASH-OFFER | Urgent Notice from BANKASIA: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd60.top
+[FAKE-333] | FAKE | BTRC-INFO | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_667
+[FAKE-334] | FAKE | CYBER-POLICE | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01691443112 for instant help.
+[FAKE-335] | FAKE | +8801459219997 | সম্মানিত UCB গ্রাহক, আপনার কার্ড থেকে 500.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-336] | FAKE | NAGAD-WIN | BRACBANK Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-337] | FAKE | BKASH-OFFER | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01577105081 for instant help.
+[FAKE-338] | FAKE | CYBER-POLICE | আপনার সেলফিন একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 845413 কোডটি এই নম্বরে পাঠান।
+[FAKE-339] | FAKE | +8801870518070 | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-637/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01613067524
+[FAKE-340] | FAKE | +8801336115822 | Urgent Notice from PUBALIBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd72.top
+[FAKE-341] | FAKE | DBBL-ALERT | আপনার নগদ একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 240416 কোডটি এই নম্বরে পাঠান।
+[FAKE-342] | FAKE | BTRC-INFO | Urgent Notice from EBL: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd1.top
+[FAKE-343] | FAKE | BKASH-OFFER | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01774340386 নম্বরে কল দিন।
+[FAKE-344] | FAKE | NAGAD-WIN | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_866
+[FAKE-345] | FAKE | BTRC-INFO | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01811212208, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-346] | FAKE | BKASH-OFFER | সুখবর! নগদ দিচ্ছে মাত্র ২% সুদে 1,500.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-347] | FAKE | +8801830930645 | Cash In Tk 1,500.00 from 01515871985 successful. Balance Tk 5,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01741069673 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-348] | FAKE | CYBER-POLICE | অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 1,500.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-21.xyz
+[FAKE-349] | FAKE | DBBL-ALERT | আপনার ONEBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01925273737 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-350] | FAKE | DBBL-ALERT | আপনার NCCBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01934267437 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-351] | FAKE | +8801374195837 | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_238
+[FAKE-352] | FAKE | BKASH-OFFER | Cash In Tk 1,020.00 from 01749273575 successful. Balance Tk 10,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01797788601 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-353] | FAKE | BKASH-OFFER | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_300
+[FAKE-354] | FAKE | NAGAD-WIN | অভিনন্দন! বিকাশ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 15,200.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-89.xyz
+[FAKE-355] | FAKE | CYBER-POLICE | You have received Tk 2,450.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-356] | FAKE | +8801760782047 | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-282/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01351065303
+[FAKE-357] | FAKE | BTRC-INFO | আপনার AGRANIBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01982516054 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-358] | FAKE | DBBL-ALERT | আপনার সেলফিন একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 614515 কোডটি এই নম্বরে পাঠান।
+[FAKE-359] | FAKE | BKASH-OFFER | আপনার NCCBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01639285010 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-360] | FAKE | DBBL-ALERT | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01356896283, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-361] | FAKE | DBBL-ALERT | সম্মানিত TRUSTBANK গ্রাহক, আপনার কার্ড থেকে 5,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-362] | FAKE | NAGAD-WIN | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01813308232 for instant help.
+[FAKE-363] | FAKE | DBBL-ALERT | Dear Customer, your SCB internet banking password has expired. Reset immediately to avoid account freeze: http://secure-login-bd.info
+[FAKE-364] | FAKE | +8801992135113 | Cash Out Tk 15,200.00 to 01997515017 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01859802464)।
+[FAKE-365] | FAKE | CYBER-POLICE | IBBL Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-366] | FAKE | +8801984347455 | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 50,000.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01763952452 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-367] | FAKE | DBBL-ALERT | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01514144667 for instant help.
+[FAKE-368] | FAKE | DBBL-ALERT | You have received Tk 2,450.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-369] | FAKE | BTRC-INFO | You have received Tk 25,000.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-370] | FAKE | CYBER-POLICE | আপনার সেলফিন একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 100678 কোডটি এই নম্বরে পাঠান।
+[FAKE-371] | FAKE | DBBL-ALERT | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01842942870 নম্বরে কল দিন।
+[FAKE-372] | FAKE | BTRC-INFO | Urgent Notice from EXIMBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd62.top
+[FAKE-373] | FAKE | +8801927494510 | অভিনন্দন! বিকাশ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 25,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-88.xyz
+[FAKE-374] | FAKE | BKASH-OFFER | আপনার AIBL একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01373011608 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-375] | FAKE | +8801697804454 | আপনার MTB একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01973807099 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-376] | FAKE | DBBL-ALERT | NCCBANK Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-377] | FAKE | DBBL-ALERT | আপনার DBBL একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01667406229 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-378] | FAKE | CYBER-POLICE | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01387675515, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-379] | FAKE | DBBL-ALERT | সম্মানিত MERCANTILE গ্রাহক, আপনার কার্ড থেকে 1,020.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-380] | FAKE | BKASH-OFFER | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01998006290, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-381] | FAKE | BKASH-OFFER | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01394354419 for instant help.
+[FAKE-382] | FAKE | NAGAD-WIN | Cash Out Tk 15,200.00 to 01913074455 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01934435266)।
+[FAKE-383] | FAKE | BKASH-OFFER | Cash In Tk 10,000.00 from 01844299122 successful. Balance Tk 5,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01613029632 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-384] | FAKE | DBBL-ALERT | Urgent Notice from TRUSTBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd86.top
+[FAKE-385] | FAKE | BTRC-INFO | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01596016669 নম্বরে কল দিন।
+[FAKE-386] | FAKE | NAGAD-WIN | অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 50,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-26.xyz
+[FAKE-387] | FAKE | BKASH-OFFER | Urgent Notice from JAMUNABANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd21.top
+[FAKE-388] | FAKE | +8801419426393 | অভিনন্দন! বিকাশ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 25,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-33.xyz
+[FAKE-389] | FAKE | NAGAD-WIN | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_795
+[FAKE-390] | FAKE | BKASH-OFFER | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app9.apk
+[FAKE-391] | FAKE | BKASH-OFFER | অভিনন্দন! বিকাশ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 10,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-31.xyz
+[FAKE-392] | FAKE | BKASH-OFFER | Cash Out Tk 3,000.00 to 01344803022 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01356673331)।
+[FAKE-393] | FAKE | CYBER-POLICE | BANKASIA Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-394] | FAKE | CYBER-POLICE | অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 1,020.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-62.xyz
+[FAKE-395] | FAKE | DBBL-ALERT | Cash Out Tk 1,020.00 to 01567690082 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01592522457)।
+[FAKE-396] | FAKE | NAGAD-WIN | Cash In Tk 15,200.00 from 01618540982 successful. Balance Tk 2,450.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01952465022 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-397] | FAKE | CYBER-POLICE | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app1.apk
+[FAKE-398] | FAKE | NAGAD-WIN | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_745
+[FAKE-399] | FAKE | DBBL-ALERT | MERCANTILE Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-400] | FAKE | CYBER-POLICE | আপনার DBBL একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01766523056 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-401] | FAKE | DBBL-ALERT | ONEBANK Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-402] | FAKE | NAGAD-WIN | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 5,000.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01627924292 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-403] | FAKE | CYBER-POLICE | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_645
+[FAKE-404] | FAKE | DBBL-ALERT | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01642331505 for instant help.
+[FAKE-405] | FAKE | +8801814458477 | অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 1,500.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-77.xyz
+[FAKE-406] | FAKE | +8801375224800 | Cash Out Tk 10,000.00 to 01847394776 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01310213732)।
+[FAKE-407] | FAKE | NAGAD-WIN | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app5.apk
+[FAKE-408] | FAKE | BKASH-OFFER | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-540/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01931237596
+[FAKE-409] | FAKE | BKASH-OFFER | সম্মানিত BRACBANK গ্রাহক, আপনার কার্ড থেকে 3,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-410] | FAKE | BKASH-OFFER | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01970514395 নম্বরে কল দিন।
+[FAKE-411] | FAKE | BTRC-INFO | আপনার AIBL একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01592461031 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-412] | FAKE | +8801349856721 | Cash In Tk 25,000.00 from 01382945813 successful. Balance Tk 8,500.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01347378616 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-413] | FAKE | DBBL-ALERT | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app5.apk
+[FAKE-414] | FAKE | DBBL-ALERT | আপনার নগদ একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 703146 কোডটি এই নম্বরে পাঠান।
+[FAKE-415] | FAKE | NAGAD-WIN | Cash Out Tk 25,000.00 to 01580895604 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01898910014)।
+[FAKE-416] | FAKE | NAGAD-WIN | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01598895713 for instant help.
+[FAKE-417] | FAKE | CYBER-POLICE | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01375268411 for instant help.
+[FAKE-418] | FAKE | +8801384129026 | আপনার রকেট একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 569668 কোডটি এই নম্বরে পাঠান।
+[FAKE-419] | FAKE | CYBER-POLICE | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01934135873 নম্বরে কল দিন।
+[FAKE-420] | FAKE | BTRC-INFO | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01580827961 for instant help.
+[FAKE-421] | FAKE | NAGAD-WIN | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01316721330 for instant help.
+[FAKE-422] | FAKE | NAGAD-WIN | সম্মানিত MERCANTILE গ্রাহক, আপনার কার্ড থেকে 10,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-423] | FAKE | +8801840644243 | অভিনন্দন! বিকাশ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 1,020.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-42.xyz
+[FAKE-424] | FAKE | DBBL-ALERT | Urgent Notice from TRUSTBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd26.top
+[FAKE-425] | FAKE | CYBER-POLICE | Cash In Tk 15,200.00 from 01667961605 successful. Balance Tk 500.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01514100769 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-426] | FAKE | BTRC-INFO | আপনার CITYBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01575985460 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-427] | FAKE | BKASH-OFFER | Cash In Tk 3,000.00 from 01897993046 successful. Balance Tk 15,200.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01863873940 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-428] | FAKE | +8801328734652 | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01874330225, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-429] | FAKE | DBBL-ALERT | Urgent Notice from IBBL: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd87.top
+[FAKE-430] | FAKE | BKASH-OFFER | অভিনন্দন! বিকাশ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 500.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-15.xyz
+[FAKE-431] | FAKE | +8801879674396 | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01788070091 for instant help.
+[FAKE-432] | FAKE | NAGAD-WIN | অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 1,500.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-73.xyz
+[FAKE-433] | FAKE | +8801623458588 | সম্মানিত EXIMBANK গ্রাহক, আপনার কার্ড থেকে 2,450.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-434] | FAKE | CYBER-POLICE | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01958060730 for instant help.
+[FAKE-435] | FAKE | BKASH-OFFER | আপনার BRACBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01651944260 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-436] | FAKE | BTRC-INFO | Cash Out Tk 25,000.00 to 01967998364 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01851685474)।
+[FAKE-437] | FAKE | BTRC-INFO | সম্মানিত ABBANK গ্রাহক, আপনার কার্ড থেকে 1,020.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-438] | FAKE | BKASH-OFFER | TRUSTBANK Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-439] | FAKE | BKASH-OFFER | MTB Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-440] | FAKE | DBBL-ALERT | Cash Out Tk 8,500.00 to 01841769195 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01714884294)।
+[FAKE-441] | FAKE | BKASH-OFFER | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 500.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01989166080 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-442] | FAKE | BKASH-OFFER | অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 15,200.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-83.xyz
+[FAKE-443] | FAKE | CYBER-POLICE | Urgent Notice from CITYBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd83.top
+[FAKE-444] | FAKE | NAGAD-WIN | আপনার রকেট একাউন্টটি সাময়িকভাবে বন্ধ হয়ে গেছে। সচল রাখতে এখনই ফোনে আসা 425493 কোডটি এই নম্বরে পাঠান।
+[FAKE-445] | FAKE | DBBL-ALERT | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_584
+[FAKE-446] | FAKE | +8801917993330 | Urgent Notice from AIBL: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd88.top
+[FAKE-447] | FAKE | DBBL-ALERT | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_776
+[FAKE-448] | FAKE | DBBL-ALERT | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_701
+[FAKE-449] | FAKE | CYBER-POLICE | আপনার BRACBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01670687271 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-450] | FAKE | NAGAD-WIN | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app2.apk
+[FAKE-451] | FAKE | +8801772874585 | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01646392700 নম্বরে কল দিন।
+[FAKE-452] | FAKE | +8801675276686 | Urgent Notice from CITYBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd1.top
+[FAKE-453] | FAKE | BKASH-OFFER | অভিনন্দন! বিকাশ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 5,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-21.xyz
+[FAKE-454] | FAKE | +8801532665293 | Urgent Notice from BRACBANK: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd53.top
+[FAKE-455] | FAKE | BTRC-INFO | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-977/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01673952200
+[FAKE-456] | FAKE | NAGAD-WIN | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 1,020.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01752276697 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-457] | FAKE | BKASH-OFFER | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_242
+[FAKE-458] | FAKE | BKASH-OFFER | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01824862220 নম্বরে কল দিন।
+[FAKE-459] | FAKE | +8801393895585 | You have received Tk 5,000.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-460] | FAKE | BTRC-INFO | অভিনন্দন! নগদ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 8,500.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-99.xyz
+[FAKE-461] | FAKE | BKASH-OFFER | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01651742889 for instant help.
+[FAKE-462] | FAKE | NAGAD-WIN | সম্মানিত MTB গ্রাহক, আপনার কার্ড থেকে 15,200.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-463] | FAKE | BTRC-INFO | Urgent Notice from MTB: Your account will be suspended within 2 hours due to incomplete KYC. Update now: http://kyc-update-bd27.top
+[FAKE-464] | FAKE | BTRC-INFO | Cash Out Tk 50,000.00 to 01739236367 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01352754880)।
+[FAKE-465] | FAKE | BTRC-INFO | Cash Out Tk 2,450.00 to 01672544187 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01579149818)।
+[FAKE-466] | FAKE | BTRC-INFO | আপনার ONEBANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01993816789 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-467] | FAKE | BKASH-OFFER | সম্মানিত DBBL গ্রাহক, আপনার কার্ড থেকে 10,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-468] | FAKE | BKASH-OFFER | আমি এজেন্ট বলছি, আপনার নম্বরে ভুল করে 2,450.00 টাকা ক্যাশ-ইন হয়ে গেছে। আমার দোকানের হিসাব মিলছে না, দয়া করে 01766912838 নম্বরে টাকাটা ফেরত দিন।
+[FAKE-469] | FAKE | +8801590375188 | সম্মানিত TRUSTBANK গ্রাহক, আপনার কার্ড থেকে 10,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-470] | FAKE | BTRC-INFO | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01526257236 নম্বরে কল দিন।
+[FAKE-471] | FAKE | DBBL-ALERT | আপনার BANKASIA একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01793722860 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-472] | FAKE | DBBL-ALERT | অভিনন্দন! বিকাশ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 1,020.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-78.xyz
+[FAKE-473] | FAKE | +8801918039533 | অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 3,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-37.xyz
+[FAKE-474] | FAKE | CYBER-POLICE | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app6.apk
+[FAKE-475] | FAKE | +8801335605735 | You have received Tk 10,000.00 via Remittance Bonus! To withdraw to your main balance, enter your PIN here: http://remit-claim-bd.net
+[FAKE-476] | FAKE | DBBL-ALERT | আপনার DHAKABANK একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01724134806 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-477] | FAKE | BTRC-INFO | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app4.apk
+[FAKE-478] | FAKE | CYBER-POLICE | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01643231926 নম্বরে কল দিন।
+[FAKE-479] | FAKE | CYBER-POLICE | সম্মানিত MERCANTILE গ্রাহক, আপনার কার্ড থেকে 3,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-480] | FAKE | NAGAD-WIN | সুখবর! বিকাশ দিচ্ছে মাত্র ২% সুদে 500.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-481] | FAKE | BKASH-OFFER | সতর্কবার্তা: বায়োমেট্রিক তথ্য আপডেট না থাকায় আজ রাত ১২টার পর আপনার সিম ও মোবাইল ব্যাংকিং বন্ধ হয়ে যাবে। আপডেট অ্যাপ ডাউনলোড করুন: http://btrc-sim-verify.com/app6.apk
+[FAKE-482] | FAKE | DBBL-ALERT | সাবধান! আপনার এনআইডি কার্ড ব্যবহার করে অবৈধ ব্যাংক একাউন্ট খোলা হয়েছে। আইনি জটিলতা এড়াতে পুলিশ কন্ট্রোল রুম 01787157968 নম্বরে কল দিন।
+[FAKE-483] | FAKE | NAGAD-WIN | সুখবর! বিকাশ দিচ্ছে মাত্র ২% সুদে 500.00 টাকা তাৎক্ষণিক লোন। কোনো কাগজপত্র ছাড়াই লোন নিতে ক্লিক করুন: http://instant-loan-bd.top
+[FAKE-484] | FAKE | BTRC-INFO | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01628024104, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-485] | FAKE | NAGAD-WIN | আপনার UCB একাউন্টের পিন লক হয়ে গেছে। আনলক করতে কাস্টমার কেয়ার প্রতিনিধি 01995323233 নম্বরে কল দিয়ে পিন ও ওটিপি দিন।
+[FAKE-486] | FAKE | BTRC-INFO | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_191
+[FAKE-487] | FAKE | CYBER-POLICE | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01750138449, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-488] | FAKE | +8801586516871 | ONEBANK Alert: Your mobile banking app needs urgent security patch. Download official APK here: http://bank-security-update.xyz/patch.apk
+[FAKE-489] | FAKE | NAGAD-WIN | ঘরে বসে পার্ট-টাইম অনলাইন টাস্ক করে দৈনিক ৩,০০০-৫,০০০ টাকা আয় করুন। পেমেন্ট সরাসরি বিকাশ/নগদে। জয়েন করুন: https://t.me/bd_income_693
+[FAKE-490] | FAKE | DBBL-ALERT | সম্মানিত AGRANIBANK গ্রাহক, আপনার কার্ড থেকে 500.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-491] | FAKE | CYBER-POLICE | Cash Out Tk 5,000.00 to 01691272811 successful. Fee Tk 0.00. (আপনার একাউন্ট থেকে টাকা কেটে নেওয়া হয়েছে, ফেরত পেতে কল করুন 01647384952)।
+[FAKE-492] | FAKE | NAGAD-WIN | Cash In Tk 500.00 from 01613382546 successful. Balance Tk 50,000.00. (ভাই ভুলে আপনার নম্বরে টাকা চলে গেছে, দয়া করে 01319259249 নম্বরে Send Money করে ফেরত দিন)।
+[FAKE-493] | FAKE | CYBER-POLICE | সম্মানিত ABBANK গ্রাহক, আপনার কার্ড থেকে 5,000.00 টাকা কাটা হচ্ছে। লেনদেনটি বাতিল করতে ফোনে আসা OTP কোডটি শেয়ার করুন।
+[FAKE-494] | FAKE | CYBER-POLICE | অভিনন্দন! নগদ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 25,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-63.xyz
+[FAKE-495] | FAKE | +8801697532368 | জরুরী বিজ্ঞপ্তি: আপনার এনআইডি ও সিমের বিরুদ্ধে সাইবার ট্রাইব্যুনালে ডিজিটাল মামলা (মামলা নং-248/২০২৬) দায়ের হয়েছে। গ্রেফতার এড়াতে কল দিন: 01326513708
+[FAKE-496] | FAKE | DBBL-ALERT | ডিএমপি সাইবার ক্রাইম ইউনিট: আপনার লেনদেনে অবৈধ অর্থের প্রমাণ পাওয়া গেছে। তদন্ত কর্মকর্তার সাথে কথা বলুন: 01571397070, নতুবা একাউন্ট জব্দ হবে।
+[FAKE-497] | FAKE | DBBL-ALERT | অভিনন্দন! রকেট-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 25,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-22.xyz
+[FAKE-498] | FAKE | NAGAD-WIN | অভিনন্দন! নগদ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 3,000.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-49.xyz
+[FAKE-499] | FAKE | NAGAD-WIN | Your wallet is restricted. Install AnyDesk app from Play Store and share the 9-digit code with our agent 01978790020 for instant help.
+[FAKE-500] | FAKE | DBBL-ALERT | অভিনন্দন! নগদ-এর বর্ষপূর্তি উপলক্ষে আপনি জিতেছেন 500.00 টাকা বোনাস। ক্লেইম করতে ভিজিট করুন: http://bd-bonus-claim-27.xyz
+
+--------------------------------------------------------------------------------
+PART 2: 500 REAL / LEGITIMATE SMS
+--------------------------------------------------------------------------------
+[REAL-001] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050147***529 has been credited with BDT 15,200.00 on 14-NOV-26. Current Balance BDT 10,000.00. Islami Bank Bangladesh PLC.
+[REAL-002] | REAL | CITYBANK | Dear Customer, BDT 3,000.00 has been spent on your City Bank Amex Card ending 7943 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-003] | REAL | BRACBANK | BDT 50,000.00 credited to your BRAC Bank A/C 1501326***965 via BEFTN on 14-Nov-2026. Available Balance: BDT 25,000.00. Call 16221 for query.
+[REAL-004] | REAL | NAGAD | Cash Out Tk 10,000.00 to 01823763094 successful. Fee Tk 18.50. Balance Tk 8,500.00. TrxID 7NM0QMUL at 14/11/2026 14:15.
+[REAL-005] | REAL | UCB | Alert: Your A/C 117***531 has been credited with BDT 2,450.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 500.00.
+[REAL-006] | REAL | DBBL | Your DBBL A/C 101.333***708 has been debited by BDT 2,450.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 1,500.00. Helpline: 16216.
+[REAL-007] | REAL | BRACBANK | Alert: Your A/C 722***512 has been credited with BDT 25,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 5,000.00.
+[REAL-008] | REAL | CELLFIN | CellFin: Fund Transfer Tk 10,000.00 to A/C 2050124***909 successful. Fee Tk 0.00. Balance Tk 500.00. TrxID CF6155449.
+[REAL-009] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 5,000.00 is 588442. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-010] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 15,200.00 is 788584. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-011] | REAL | 16216 | Rocket: Cash-In Tk 3,000.00 from A/C 017722014789; Fee Tk 0.00; Balance Tk 2,450.00; TrxID 6844727349; Date 14-Nov-2026.
+[REAL-012] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 15,200.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID JHFRAPHB65। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-013] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050134***556 has been credited with BDT 15,200.00 on 14-NOV-26. Current Balance BDT 15,200.00. Islami Bank Bangladesh PLC.
+[REAL-014] | REAL | bKash | Your bKash Verification Code is 715130. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-015] | REAL | NAGAD | Cash Out Tk 50,000.00 to 01627046632 successful. Fee Tk 18.50. Balance Tk 1,020.00. TrxID 185BB4KB at 14/11/2026 14:15.
+[REAL-016] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050839***327 has been credited with BDT 15,200.00 on 14-NOV-26. Current Balance BDT 500.00. Islami Bank Bangladesh PLC.
+[REAL-017] | REAL | bKash | Cash In Tk 50,000.00 from 01978947181 successful. Fee Tk 0.00. Balance Tk 2,450.00. TrxID JUCWN3JNWW at 14/11/2026 10:30.
+[REAL-018] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050181***843 has been credited with BDT 8,500.00 on 14-NOV-26. Current Balance BDT 1,500.00. Islami Bank Bangladesh PLC.
+[REAL-019] | REAL | EBL | EBL Alert: Purchase of BDT 5,000.00 at AARONG using EBL VISA Card 4321****4835 on 14/11/26. Available Balance: BDT 1,020.00.
+[REAL-020] | REAL | 16216 | Rocket: Cash-In Tk 15,200.00 from A/C 013628258129; Fee Tk 0.00; Balance Tk 500.00; TrxID 8445904218; Date 14-Nov-2026.
+[REAL-021] | REAL | NAGAD | Cash Out Tk 5,000.00 to 01346539317 successful. Fee Tk 18.50. Balance Tk 3,000.00. TrxID 9Y3RMAY5 at 14/11/2026 14:15.
+[REAL-022] | REAL | JANATABANK | Alert: Your A/C 688***726 has been credited with BDT 1,020.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 5,000.00.
+[REAL-023] | REAL | bKash | Payment Tk 3,000.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 8,500.00. TrxID LQFP2JBJR5.
+[REAL-024] | REAL | bKash | Your bKash Verification Code is 567224. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-025] | REAL | UPAY | Send Money Tk 5,000.00 to 01758367239 is successful. Fee Tk 0.00. Current Balance Tk 10,000.00. TrxID UP9942105.
+[REAL-026] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-027] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 8,500.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID 4HF4ADS5D4। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-028] | REAL | CELLFIN | CellFin: Fund Transfer Tk 10,000.00 to A/C 2050849***540 successful. Fee Tk 0.00. Balance Tk 2,450.00. TrxID CF5101792.
+[REAL-029] | REAL | BRACBANK | BDT 25,000.00 credited to your BRAC Bank A/C 1501455***557 via BEFTN on 14-Nov-2026. Available Balance: BDT 25,000.00. Call 16221 for query.
+[REAL-030] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 500.00 is 476054. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-031] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 500.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID 7V3ZHZCTDX। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-032] | REAL | UPAY | Send Money Tk 2,450.00 to 01632240338 is successful. Fee Tk 0.00. Current Balance Tk 1,500.00. TrxID UP7391659.
+[REAL-033] | REAL | BANKASIA | Alert: Your A/C 462***460 has been credited with BDT 500.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 500.00.
+[REAL-034] | REAL | EBL | EBL Alert: Purchase of BDT 5,000.00 at AARONG using EBL VISA Card 4321****7572 on 14/11/26. Available Balance: BDT 2,450.00.
+[REAL-035] | REAL | UPAY | Send Money Tk 5,000.00 to 01826613838 is successful. Fee Tk 0.00. Current Balance Tk 15,200.00. TrxID UP4255900.
+[REAL-036] | REAL | CELLFIN | CellFin: Fund Transfer Tk 8,500.00 to A/C 2050148***144 successful. Fee Tk 0.00. Balance Tk 50,000.00. TrxID CF9242455.
+[REAL-037] | REAL | DBBL | Your DBBL A/C 101.966***845 has been debited by BDT 25,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 5,000.00. Helpline: 16216.
+[REAL-038] | REAL | EBL | EBL Alert: Purchase of BDT 8,500.00 at AARONG using EBL VISA Card 4321****2703 on 14/11/26. Available Balance: BDT 3,000.00.
+[REAL-039] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 50,000.00 is 611851. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-040] | REAL | BRACBANK | BDT 1,020.00 credited to your BRAC Bank A/C 1501779***855 via BEFTN on 14-Nov-2026. Available Balance: BDT 10,000.00. Call 16221 for query.
+[REAL-041] | REAL | CELLFIN | CellFin: Fund Transfer Tk 2,450.00 to A/C 2050680***346 successful. Fee Tk 0.00. Balance Tk 25,000.00. TrxID CF7343345.
+[REAL-042] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050178***934 has been credited with BDT 25,000.00 on 14-NOV-26. Current Balance BDT 500.00. Islami Bank Bangladesh PLC.
+[REAL-043] | REAL | CELLFIN | CellFin: Fund Transfer Tk 10,000.00 to A/C 2050359***517 successful. Fee Tk 0.00. Balance Tk 3,000.00. TrxID CF9812438.
+[REAL-044] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050388***735 has been credited with BDT 8,500.00 on 14-NOV-26. Current Balance BDT 1,020.00. Islami Bank Bangladesh PLC.
+[REAL-045] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050973***854 has been credited with BDT 8,500.00 on 14-NOV-26. Current Balance BDT 10,000.00. Islami Bank Bangladesh PLC.
+[REAL-046] | REAL | 16216 | Rocket: Cash-In Tk 50,000.00 from A/C 019585598079; Fee Tk 0.00; Balance Tk 1,500.00; TrxID 2081214094; Date 14-Nov-2026.
+[REAL-047] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 391711। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-048] | REAL | 16216 | Rocket: Cash-In Tk 15,200.00 from A/C 018135150969; Fee Tk 0.00; Balance Tk 1,020.00; TrxID 7226112709; Date 14-Nov-2026.
+[REAL-049] | REAL | DBBL | Your DBBL A/C 101.298***446 has been debited by BDT 2,450.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 25,000.00. Helpline: 16216.
+[REAL-050] | REAL | NAGAD | Cash Out Tk 10,000.00 to 01814086835 successful. Fee Tk 18.50. Balance Tk 10,000.00. TrxID 2FKBPZ5V at 14/11/2026 14:15.
+[REAL-051] | REAL | 16216 | Rocket: Cash-In Tk 2,450.00 from A/C 016278499979; Fee Tk 0.00; Balance Tk 15,200.00; TrxID 7590184994; Date 14-Nov-2026.
+[REAL-052] | REAL | BRACBANK | BDT 500.00 credited to your BRAC Bank A/C 1501501***741 via BEFTN on 14-Nov-2026. Available Balance: BDT 1,500.00. Call 16221 for query.
+[REAL-053] | REAL | CELLFIN | CellFin: Fund Transfer Tk 5,000.00 to A/C 2050153***762 successful. Fee Tk 0.00. Balance Tk 2,450.00. TrxID CF2813327.
+[REAL-054] | REAL | EBL | EBL Alert: Purchase of BDT 5,000.00 at AARONG using EBL VISA Card 4321****2260 on 14/11/26. Available Balance: BDT 1,500.00.
+[REAL-055] | REAL | NAGAD | Cash Out Tk 15,200.00 to 01872942618 successful. Fee Tk 18.50. Balance Tk 5,000.00. TrxID WFNRXYD4 at 14/11/2026 14:15.
+[REAL-056] | REAL | bKash | Cash In Tk 8,500.00 from 01358706987 successful. Fee Tk 0.00. Balance Tk 500.00. TrxID 3PDUB8WJCR at 14/11/2026 10:30.
+[REAL-057] | REAL | bKash | Payment Tk 500.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 10,000.00. TrxID NDZDQT09G3.
+[REAL-058] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 15,200.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID W14N0A61LS। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-059] | REAL | bKash | Cash In Tk 5,000.00 from 01929665196 successful. Fee Tk 0.00. Balance Tk 15,200.00. TrxID RJUW77Y2C6 at 14/11/2026 10:30.
+[REAL-060] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050899***420 has been credited with BDT 1,020.00 on 14-NOV-26. Current Balance BDT 8,500.00. Islami Bank Bangladesh PLC.
+[REAL-061] | REAL | bKash | Payment Tk 2,450.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 1,500.00. TrxID PPH9Q4Q9RB.
+[REAL-062] | REAL | EBL | Alert: Your A/C 888***903 has been credited with BDT 25,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 50,000.00.
+[REAL-063] | REAL | bKash | Payment Tk 50,000.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 3,000.00. TrxID JVPGRJYHLZ.
+[REAL-064] | REAL | bKash | Payment Tk 25,000.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 10,000.00. TrxID 8J9L4TPE0Z.
+[REAL-065] | REAL | bKash | Cash In Tk 50,000.00 from 01969516052 successful. Fee Tk 0.00. Balance Tk 5,000.00. TrxID FGLY04H86G at 14/11/2026 10:30.
+[REAL-066] | REAL | EBL | Alert: Your A/C 456***606 has been credited with BDT 1,500.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 15,200.00.
+[REAL-067] | REAL | 16216 | Rocket: Cash-In Tk 3,000.00 from A/C 015998235549; Fee Tk 0.00; Balance Tk 25,000.00; TrxID 1497162612; Date 14-Nov-2026.
+[REAL-068] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 609178। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-069] | REAL | NAGAD | Cash Out Tk 2,450.00 to 01632051530 successful. Fee Tk 18.50. Balance Tk 500.00. TrxID ZZXCUS27 at 14/11/2026 14:15.
+[REAL-070] | REAL | NAGAD | Cash Out Tk 1,500.00 to 01372630317 successful. Fee Tk 18.50. Balance Tk 50,000.00. TrxID LPNDEA7L at 14/11/2026 14:15.
+[REAL-071] | REAL | bKash | Cash In Tk 8,500.00 from 01530952573 successful. Fee Tk 0.00. Balance Tk 2,450.00. TrxID 6A1LJTBRWY at 14/11/2026 10:30.
+[REAL-072] | REAL | bKash | Cash In Tk 5,000.00 from 01761919168 successful. Fee Tk 0.00. Balance Tk 1,500.00. TrxID FJ0HAD7V1Z at 14/11/2026 10:30.
+[REAL-073] | REAL | ONEBANK | One-Time Password (OTP) for your internet banking fund transfer of BDT 25,000.00 is 669790. Never share your OTP with anyone.
+[REAL-074] | REAL | NAGAD | Cash Out Tk 500.00 to 01937459866 successful. Fee Tk 18.50. Balance Tk 50,000.00. TrxID KNLFUD64 at 14/11/2026 14:15.
+[REAL-075] | REAL | EBL | EBL Alert: Purchase of BDT 15,200.00 at AARONG using EBL VISA Card 4321****1003 on 14/11/26. Available Balance: BDT 10,000.00.
+[REAL-076] | REAL | bKash | Your bKash Verification Code is 431072. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-077] | REAL | 16216 | Rocket: Cash-In Tk 15,200.00 from A/C 015143611609; Fee Tk 0.00; Balance Tk 1,500.00; TrxID 9783730179; Date 14-Nov-2026.
+[REAL-078] | REAL | 16216 | Rocket: Cash-In Tk 1,020.00 from A/C 019599443899; Fee Tk 0.00; Balance Tk 50,000.00; TrxID 2012087955; Date 14-Nov-2026.
+[REAL-079] | REAL | bKash | Payment Tk 1,020.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 25,000.00. TrxID EHLQ1UKA9H.
+[REAL-080] | REAL | BRACBANK | BDT 1,020.00 credited to your BRAC Bank A/C 1501840***405 via BEFTN on 14-Nov-2026. Available Balance: BDT 50,000.00. Call 16221 for query.
+[REAL-081] | REAL | bKash | Your bKash Verification Code is 354992. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-082] | REAL | bKash | Your bKash Verification Code is 842708. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-083] | REAL | bKash | Cash In Tk 3,000.00 from 01684215992 successful. Fee Tk 0.00. Balance Tk 50,000.00. TrxID A9AVWVPXNP at 14/11/2026 10:30.
+[REAL-084] | REAL | PUBALIBANK | Alert: Your A/C 616***421 has been credited with BDT 1,500.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 2,450.00.
+[REAL-085] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 500.00 is 335483. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-086] | REAL | DBBL | Your DBBL A/C 101.794***295 has been debited by BDT 8,500.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 1,020.00. Helpline: 16216.
+[REAL-087] | REAL | CITYBANK | Dear Customer, BDT 15,200.00 has been spent on your City Bank Amex Card ending 7791 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-088] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-089] | REAL | BRACBANK | BDT 25,000.00 credited to your BRAC Bank A/C 1501151***173 via BEFTN on 14-Nov-2026. Available Balance: BDT 10,000.00. Call 16221 for query.
+[REAL-090] | REAL | bKash | Cash In Tk 15,200.00 from 01625632310 successful. Fee Tk 0.00. Balance Tk 8,500.00. TrxID JEBNAR454C at 14/11/2026 10:30.
+[REAL-091] | REAL | BRACBANK | BDT 1,020.00 credited to your BRAC Bank A/C 1501632***172 via BEFTN on 14-Nov-2026. Available Balance: BDT 500.00. Call 16221 for query.
+[REAL-092] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 5,000.00 is 769684. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-093] | REAL | UPAY | Send Money Tk 50,000.00 to 01929860672 is successful. Fee Tk 0.00. Current Balance Tk 1,500.00. TrxID UP4832424.
+[REAL-094] | REAL | 16216 | Rocket: Cash-In Tk 8,500.00 from A/C 016680072059; Fee Tk 0.00; Balance Tk 15,200.00; TrxID 4463645623; Date 14-Nov-2026.
+[REAL-095] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 1,500.00 is 331796. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-096] | REAL | ONEBANK | One-Time Password (OTP) for your internet banking fund transfer of BDT 2,450.00 is 675098. Never share your OTP with anyone.
+[REAL-097] | REAL | CELLFIN | CellFin: Fund Transfer Tk 10,000.00 to A/C 2050569***495 successful. Fee Tk 0.00. Balance Tk 2,450.00. TrxID CF9351997.
+[REAL-098] | REAL | UPAY | Send Money Tk 1,020.00 to 01882307397 is successful. Fee Tk 0.00. Current Balance Tk 10,000.00. TrxID UP2889760.
+[REAL-099] | REAL | DHAKABANK | One-Time Password (OTP) for your internet banking fund transfer of BDT 2,450.00 is 488701. Never share your OTP with anyone.
+[REAL-100] | REAL | DBBL | Your DBBL A/C 101.747***367 has been debited by BDT 2,450.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 500.00. Helpline: 16216.
+[REAL-101] | REAL | DBBL | Your DBBL A/C 101.899***810 has been debited by BDT 3,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 15,200.00. Helpline: 16216.
+[REAL-102] | REAL | bKash | Cash In Tk 3,000.00 from 01920380125 successful. Fee Tk 0.00. Balance Tk 3,000.00. TrxID C6BLKW7F0A at 14/11/2026 10:30.
+[REAL-103] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 1,500.00 is 946677. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-104] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 8,500.00 is 216761. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-105] | REAL | NAGAD | Cash Out Tk 1,020.00 to 01748646766 successful. Fee Tk 18.50. Balance Tk 1,020.00. TrxID VRRHFHZV at 14/11/2026 14:15.
+[REAL-106] | REAL | 16216 | Rocket: Cash-In Tk 5,000.00 from A/C 017167717769; Fee Tk 0.00; Balance Tk 5,000.00; TrxID 3687181525; Date 14-Nov-2026.
+[REAL-107] | REAL | CITYBANK | Dear Customer, BDT 8,500.00 has been spent on your City Bank Amex Card ending 1120 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-108] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050837***570 has been credited with BDT 2,450.00 on 14-NOV-26. Current Balance BDT 1,020.00. Islami Bank Bangladesh PLC.
+[REAL-109] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 1,020.00 is 656595. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-110] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-111] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-112] | REAL | AIBL | Alert: Your A/C 888***454 has been credited with BDT 25,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 1,020.00.
+[REAL-113] | REAL | DBBL | One-Time Password (OTP) for your internet banking fund transfer of BDT 8,500.00 is 484164. Never share your OTP with anyone.
+[REAL-114] | REAL | CELLFIN | CellFin: Fund Transfer Tk 25,000.00 to A/C 2050367***842 successful. Fee Tk 0.00. Balance Tk 2,450.00. TrxID CF7024755.
+[REAL-115] | REAL | BRACBANK | BDT 25,000.00 credited to your BRAC Bank A/C 1501660***156 via BEFTN on 14-Nov-2026. Available Balance: BDT 25,000.00. Call 16221 for query.
+[REAL-116] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 1,020.00 is 207392. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-117] | REAL | ABBANK | Alert: Your A/C 221***438 has been credited with BDT 50,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 1,020.00.
+[REAL-118] | REAL | bKash | Your bKash Verification Code is 978716. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-119] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-120] | REAL | NAGAD | Cash Out Tk 3,000.00 to 01735090832 successful. Fee Tk 18.50. Balance Tk 5,000.00. TrxID 4ZBMZFXT at 14/11/2026 14:15.
+[REAL-121] | REAL | CELLFIN | CellFin: Fund Transfer Tk 5,000.00 to A/C 2050799***201 successful. Fee Tk 0.00. Balance Tk 8,500.00. TrxID CF1663384.
+[REAL-122] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 2,450.00 is 278081. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-123] | REAL | CELLFIN | CellFin: Fund Transfer Tk 10,000.00 to A/C 2050606***967 successful. Fee Tk 0.00. Balance Tk 25,000.00. TrxID CF1604370.
+[REAL-124] | REAL | CELLFIN | CellFin: Fund Transfer Tk 15,200.00 to A/C 2050215***396 successful. Fee Tk 0.00. Balance Tk 1,500.00. TrxID CF6280761.
+[REAL-125] | REAL | UPAY | Send Money Tk 50,000.00 to 01777736291 is successful. Fee Tk 0.00. Current Balance Tk 1,500.00. TrxID UP6882818.
+[REAL-126] | REAL | bKash | Cash In Tk 3,000.00 from 01375753815 successful. Fee Tk 0.00. Balance Tk 50,000.00. TrxID 2YKS3FZB6B at 14/11/2026 10:30.
+[REAL-127] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 544795। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-128] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-129] | REAL | bKash | Cash In Tk 5,000.00 from 01349923091 successful. Fee Tk 0.00. Balance Tk 15,200.00. TrxID BR3T4H6NEL at 14/11/2026 10:30.
+[REAL-130] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050434***581 has been credited with BDT 3,000.00 on 14-NOV-26. Current Balance BDT 25,000.00. Islami Bank Bangladesh PLC.
+[REAL-131] | REAL | BRACBANK | BDT 25,000.00 credited to your BRAC Bank A/C 1501452***354 via BEFTN on 14-Nov-2026. Available Balance: BDT 500.00. Call 16221 for query.
+[REAL-132] | REAL | EBL | EBL Alert: Purchase of BDT 3,000.00 at AARONG using EBL VISA Card 4321****2606 on 14/11/26. Available Balance: BDT 50,000.00.
+[REAL-133] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 1,020.00 is 972627. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-134] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050248***914 has been credited with BDT 15,200.00 on 14-NOV-26. Current Balance BDT 15,200.00. Islami Bank Bangladesh PLC.
+[REAL-135] | REAL | PRIMEBANK | Alert: Your A/C 238***927 has been credited with BDT 25,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 1,020.00.
+[REAL-136] | REAL | UPAY | Send Money Tk 1,500.00 to 01672203949 is successful. Fee Tk 0.00. Current Balance Tk 5,000.00. TrxID UP2487186.
+[REAL-137] | REAL | NAGAD | Cash Out Tk 50,000.00 to 01939180579 successful. Fee Tk 18.50. Balance Tk 1,500.00. TrxID BVDYK911 at 14/11/2026 14:15.
+[REAL-138] | REAL | NAGAD | Cash Out Tk 2,450.00 to 01328466643 successful. Fee Tk 18.50. Balance Tk 25,000.00. TrxID SMDCBSW3 at 14/11/2026 14:15.
+[REAL-139] | REAL | EBL | EBL Alert: Purchase of BDT 15,200.00 at AARONG using EBL VISA Card 4321****6880 on 14/11/26. Available Balance: BDT 1,020.00.
+[REAL-140] | REAL | 16216 | Rocket: Cash-In Tk 1,020.00 from A/C 018798518319; Fee Tk 0.00; Balance Tk 2,450.00; TrxID 1255760841; Date 14-Nov-2026.
+[REAL-141] | REAL | bKash | Your bKash Verification Code is 936944. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-142] | REAL | DBBL | Your DBBL A/C 101.517***761 has been debited by BDT 3,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 3,000.00. Helpline: 16216.
+[REAL-143] | REAL | bKash | Payment Tk 500.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 1,020.00. TrxID Y51PXXVBDE.
+[REAL-144] | REAL | bKash | Payment Tk 5,000.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 2,450.00. TrxID UD306AH5F6.
+[REAL-145] | REAL | bKash | Your bKash Verification Code is 321204. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-146] | REAL | EBL | EBL Alert: Purchase of BDT 500.00 at AARONG using EBL VISA Card 4321****9668 on 14/11/26. Available Balance: BDT 10,000.00.
+[REAL-147] | REAL | bKash | Your bKash Verification Code is 715756. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-148] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 1,020.00 is 532887. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-149] | REAL | NAGAD | Cash Out Tk 8,500.00 to 01664684748 successful. Fee Tk 18.50. Balance Tk 25,000.00. TrxID 9A3320JT at 14/11/2026 14:15.
+[REAL-150] | REAL | BRACBANK | BDT 2,450.00 credited to your BRAC Bank A/C 1501447***505 via BEFTN on 14-Nov-2026. Available Balance: BDT 50,000.00. Call 16221 for query.
+[REAL-151] | REAL | BRACBANK | BDT 500.00 credited to your BRAC Bank A/C 1501197***257 via BEFTN on 14-Nov-2026. Available Balance: BDT 10,000.00. Call 16221 for query.
+[REAL-152] | REAL | UPAY | Send Money Tk 1,500.00 to 01943019834 is successful. Fee Tk 0.00. Current Balance Tk 500.00. TrxID UP9503124.
+[REAL-153] | REAL | EBL | EBL Alert: Purchase of BDT 5,000.00 at AARONG using EBL VISA Card 4321****5983 on 14/11/26. Available Balance: BDT 2,450.00.
+[REAL-154] | REAL | MTB | Alert: Your A/C 176***605 has been credited with BDT 2,450.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 50,000.00.
+[REAL-155] | REAL | DBBL | Your DBBL A/C 101.617***233 has been debited by BDT 25,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 15,200.00. Helpline: 16216.
+[REAL-156] | REAL | NCCBANK | Alert: Your A/C 559***748 has been credited with BDT 50,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 10,000.00.
+[REAL-157] | REAL | bKash | Payment Tk 1,500.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 1,500.00. TrxID RWGGEZ19D4.
+[REAL-158] | REAL | 16216 | Rocket: Cash-In Tk 10,000.00 from A/C 013630615079; Fee Tk 0.00; Balance Tk 25,000.00; TrxID 1365370796; Date 14-Nov-2026.
+[REAL-159] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050402***585 has been credited with BDT 5,000.00 on 14-NOV-26. Current Balance BDT 500.00. Islami Bank Bangladesh PLC.
+[REAL-160] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 753631। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-161] | REAL | UPAY | Send Money Tk 8,500.00 to 01713227398 is successful. Fee Tk 0.00. Current Balance Tk 5,000.00. TrxID UP2661153.
+[REAL-162] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 500.00 is 340951. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-163] | REAL | CELLFIN | CellFin: Fund Transfer Tk 3,000.00 to A/C 2050177***566 successful. Fee Tk 0.00. Balance Tk 3,000.00. TrxID CF1793263.
+[REAL-164] | REAL | UPAY | Send Money Tk 5,000.00 to 01782396865 is successful. Fee Tk 0.00. Current Balance Tk 1,020.00. TrxID UP1694145.
+[REAL-165] | REAL | CITYBANK | Dear Customer, BDT 15,200.00 has been spent on your City Bank Amex Card ending 7276 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-166] | REAL | CITYBANK | Dear Customer, BDT 1,500.00 has been spent on your City Bank Amex Card ending 3418 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-167] | REAL | CITYBANK | Dear Customer, BDT 5,000.00 has been spent on your City Bank Amex Card ending 6905 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-168] | REAL | DHAKABANK | One-Time Password (OTP) for your internet banking fund transfer of BDT 10,000.00 is 426223. Never share your OTP with anyone.
+[REAL-169] | REAL | UPAY | Send Money Tk 3,000.00 to 01677907591 is successful. Fee Tk 0.00. Current Balance Tk 10,000.00. TrxID UP1257815.
+[REAL-170] | REAL | JAMUNABANK | One-Time Password (OTP) for your internet banking fund transfer of BDT 1,500.00 is 503627. Never share your OTP with anyone.
+[REAL-171] | REAL | BRACBANK | BDT 8,500.00 credited to your BRAC Bank A/C 1501501***356 via BEFTN on 14-Nov-2026. Available Balance: BDT 1,500.00. Call 16221 for query.
+[REAL-172] | REAL | NAGAD | Cash Out Tk 50,000.00 to 01940115665 successful. Fee Tk 18.50. Balance Tk 2,450.00. TrxID 2MU861U8 at 14/11/2026 14:15.
+[REAL-173] | REAL | bKash | Payment Tk 50,000.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 500.00. TrxID 1AN5219MWE.
+[REAL-174] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 500.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID 53SRSCRMWF। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-175] | REAL | BRACBANK | BDT 1,500.00 credited to your BRAC Bank A/C 1501547***574 via BEFTN on 14-Nov-2026. Available Balance: BDT 5,000.00. Call 16221 for query.
+[REAL-176] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 758528। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-177] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 2,450.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID ENRK28JXA2। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-178] | REAL | bKash | Cash In Tk 3,000.00 from 01836981416 successful. Fee Tk 0.00. Balance Tk 5,000.00. TrxID YW5G3ZJL8L at 14/11/2026 10:30.
+[REAL-179] | REAL | bKash | Cash In Tk 3,000.00 from 01540669460 successful. Fee Tk 0.00. Balance Tk 25,000.00. TrxID KHBSPTVLEM at 14/11/2026 10:30.
+[REAL-180] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 731867। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-181] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050710***495 has been credited with BDT 8,500.00 on 14-NOV-26. Current Balance BDT 3,000.00. Islami Bank Bangladesh PLC.
+[REAL-182] | REAL | bKash | Payment Tk 15,200.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 25,000.00. TrxID RLG9TC8LTW.
+[REAL-183] | REAL | NCCBANK | Alert: Your A/C 794***594 has been credited with BDT 25,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 15,200.00.
+[REAL-184] | REAL | BANKASIA | Alert: Your A/C 239***170 has been credited with BDT 15,200.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 8,500.00.
+[REAL-185] | REAL | bKash | Cash In Tk 50,000.00 from 01834684206 successful. Fee Tk 0.00. Balance Tk 2,450.00. TrxID PKUQYV69NH at 14/11/2026 10:30.
+[REAL-186] | REAL | 16216 | Rocket: Cash-In Tk 10,000.00 from A/C 013667136439; Fee Tk 0.00; Balance Tk 1,020.00; TrxID 8640609522; Date 14-Nov-2026.
+[REAL-187] | REAL | CELLFIN | CellFin: Fund Transfer Tk 8,500.00 to A/C 2050443***221 successful. Fee Tk 0.00. Balance Tk 2,450.00. TrxID CF4381385.
+[REAL-188] | REAL | bKash | Payment Tk 8,500.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 8,500.00. TrxID W7WQXLQW10.
+[REAL-189] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 1,020.00 is 149015. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-190] | REAL | bKash | Your bKash Verification Code is 848367. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-191] | REAL | 16216 | Rocket: Cash-In Tk 500.00 from A/C 016343858859; Fee Tk 0.00; Balance Tk 5,000.00; TrxID 7974022084; Date 14-Nov-2026.
+[REAL-192] | REAL | CELLFIN | CellFin: Fund Transfer Tk 1,500.00 to A/C 2050500***188 successful. Fee Tk 0.00. Balance Tk 15,200.00. TrxID CF8820866.
+[REAL-193] | REAL | EBL | Alert: Your A/C 232***129 has been credited with BDT 5,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 500.00.
+[REAL-194] | REAL | UPAY | Send Money Tk 500.00 to 01855327738 is successful. Fee Tk 0.00. Current Balance Tk 1,020.00. TrxID UP1609936.
+[REAL-195] | REAL | CITYBANK | Dear Customer, BDT 15,200.00 has been spent on your City Bank Amex Card ending 3705 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-196] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 1,500.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID SEECHLV521। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-197] | REAL | bKash | Your bKash Verification Code is 198710. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-198] | REAL | DBBL | Your DBBL A/C 101.709***761 has been debited by BDT 5,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 50,000.00. Helpline: 16216.
+[REAL-199] | REAL | SONALIBANK | Alert: Your A/C 314***510 has been credited with BDT 500.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 50,000.00.
+[REAL-200] | REAL | 16216 | Rocket: Cash-In Tk 1,500.00 from A/C 013215325639; Fee Tk 0.00; Balance Tk 3,000.00; TrxID 3586348736; Date 14-Nov-2026.
+[REAL-201] | REAL | CITYBANK | Dear Customer, BDT 10,000.00 has been spent on your City Bank Amex Card ending 9786 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-202] | REAL | CELLFIN | CellFin: Fund Transfer Tk 25,000.00 to A/C 2050770***995 successful. Fee Tk 0.00. Balance Tk 5,000.00. TrxID CF8162313.
+[REAL-203] | REAL | UPAY | Send Money Tk 8,500.00 to 01364266378 is successful. Fee Tk 0.00. Current Balance Tk 15,200.00. TrxID UP9519822.
+[REAL-204] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050763***542 has been credited with BDT 15,200.00 on 14-NOV-26. Current Balance BDT 10,000.00. Islami Bank Bangladesh PLC.
+[REAL-205] | REAL | UPAY | Send Money Tk 25,000.00 to 01826020381 is successful. Fee Tk 0.00. Current Balance Tk 2,450.00. TrxID UP4500354.
+[REAL-206] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 25,000.00 is 932363. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-207] | REAL | bKash | Payment Tk 3,000.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 1,500.00. TrxID 1E7PSUHV6B.
+[REAL-208] | REAL | EBL | EBL Alert: Purchase of BDT 5,000.00 at AARONG using EBL VISA Card 4321****5407 on 14/11/26. Available Balance: BDT 2,450.00.
+[REAL-209] | REAL | DBBL | Your DBBL A/C 101.277***132 has been debited by BDT 3,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 2,450.00. Helpline: 16216.
+[REAL-210] | REAL | SCB | Alert: Your A/C 977***208 has been credited with BDT 5,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 3,000.00.
+[REAL-211] | REAL | bKash | Your bKash Verification Code is 459253. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-212] | REAL | bKash | Cash In Tk 5,000.00 from 01524746425 successful. Fee Tk 0.00. Balance Tk 2,450.00. TrxID U42UEHS9UP at 14/11/2026 10:30.
+[REAL-213] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-214] | REAL | EBL | EBL Alert: Purchase of BDT 8,500.00 at AARONG using EBL VISA Card 4321****6612 on 14/11/26. Available Balance: BDT 50,000.00.
+[REAL-215] | REAL | NAGAD | Cash Out Tk 500.00 to 01948907048 successful. Fee Tk 18.50. Balance Tk 8,500.00. TrxID 5SD4SWQB at 14/11/2026 14:15.
+[REAL-216] | REAL | DBBL | Your DBBL A/C 101.136***686 has been debited by BDT 50,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 8,500.00. Helpline: 16216.
+[REAL-217] | REAL | DBBL | Your DBBL A/C 101.384***123 has been debited by BDT 25,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 2,450.00. Helpline: 16216.
+[REAL-218] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-219] | REAL | NAGAD | Cash Out Tk 15,200.00 to 01889490868 successful. Fee Tk 18.50. Balance Tk 1,500.00. TrxID 36C3JLUY at 14/11/2026 14:15.
+[REAL-220] | REAL | UPAY | Send Money Tk 1,500.00 to 01314589676 is successful. Fee Tk 0.00. Current Balance Tk 25,000.00. TrxID UP5537611.
+[REAL-221] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 15,200.00 is 590065. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-222] | REAL | DBBL | Your DBBL A/C 101.159***358 has been debited by BDT 1,500.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 3,000.00. Helpline: 16216.
+[REAL-223] | REAL | bKash | Cash In Tk 5,000.00 from 01667118499 successful. Fee Tk 0.00. Balance Tk 500.00. TrxID V53F0DMHHD at 14/11/2026 10:30.
+[REAL-224] | REAL | bKash | Payment Tk 3,000.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 500.00. TrxID WS9BV4Q40U.
+[REAL-225] | REAL | EBL | EBL Alert: Purchase of BDT 10,000.00 at AARONG using EBL VISA Card 4321****3354 on 14/11/26. Available Balance: BDT 1,020.00.
+[REAL-226] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-227] | REAL | CELLFIN | CellFin: Fund Transfer Tk 500.00 to A/C 2050235***660 successful. Fee Tk 0.00. Balance Tk 25,000.00. TrxID CF7979159.
+[REAL-228] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 1,020.00 is 781643. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-229] | REAL | CELLFIN | CellFin: Fund Transfer Tk 25,000.00 to A/C 2050507***840 successful. Fee Tk 0.00. Balance Tk 1,020.00. TrxID CF1925976.
+[REAL-230] | REAL | BRACBANK | BDT 15,200.00 credited to your BRAC Bank A/C 1501940***107 via BEFTN on 14-Nov-2026. Available Balance: BDT 5,000.00. Call 16221 for query.
+[REAL-231] | REAL | UPAY | Send Money Tk 2,450.00 to 01663949830 is successful. Fee Tk 0.00. Current Balance Tk 15,200.00. TrxID UP4681587.
+[REAL-232] | REAL | BRACBANK | BDT 10,000.00 credited to your BRAC Bank A/C 1501429***294 via BEFTN on 14-Nov-2026. Available Balance: BDT 15,200.00. Call 16221 for query.
+[REAL-233] | REAL | bKash | Payment Tk 1,500.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 1,500.00. TrxID 9U59AY338Z.
+[REAL-234] | REAL | bKash | Your bKash Verification Code is 222505. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-235] | REAL | BRACBANK | BDT 8,500.00 credited to your BRAC Bank A/C 1501813***129 via BEFTN on 14-Nov-2026. Available Balance: BDT 1,500.00. Call 16221 for query.
+[REAL-236] | REAL | UPAY | Send Money Tk 5,000.00 to 01791690099 is successful. Fee Tk 0.00. Current Balance Tk 5,000.00. TrxID UP1793113.
+[REAL-237] | REAL | DBBL | Your DBBL A/C 101.925***316 has been debited by BDT 25,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 5,000.00. Helpline: 16216.
+[REAL-238] | REAL | EBL | EBL Alert: Purchase of BDT 1,020.00 at AARONG using EBL VISA Card 4321****8037 on 14/11/26. Available Balance: BDT 25,000.00.
+[REAL-239] | REAL | NAGAD | Cash Out Tk 500.00 to 01624232487 successful. Fee Tk 18.50. Balance Tk 2,450.00. TrxID 79DW5N8K at 14/11/2026 14:15.
+[REAL-240] | REAL | bKash | Payment Tk 2,450.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 50,000.00. TrxID HMZ1QVUTHV.
+[REAL-241] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050299***716 has been credited with BDT 3,000.00 on 14-NOV-26. Current Balance BDT 50,000.00. Islami Bank Bangladesh PLC.
+[REAL-242] | REAL | 16216 | Rocket: Cash-In Tk 10,000.00 from A/C 017466092829; Fee Tk 0.00; Balance Tk 500.00; TrxID 6638932410; Date 14-Nov-2026.
+[REAL-243] | REAL | BRACBANK | BDT 3,000.00 credited to your BRAC Bank A/C 1501191***430 via BEFTN on 14-Nov-2026. Available Balance: BDT 8,500.00. Call 16221 for query.
+[REAL-244] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-245] | REAL | bKash | Payment Tk 2,450.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 1,500.00. TrxID WR0L4B7470.
+[REAL-246] | REAL | BRACBANK | BDT 8,500.00 credited to your BRAC Bank A/C 1501820***472 via BEFTN on 14-Nov-2026. Available Balance: BDT 25,000.00. Call 16221 for query.
+[REAL-247] | REAL | CITYBANK | Dear Customer, BDT 1,020.00 has been spent on your City Bank Amex Card ending 7047 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-248] | REAL | UPAY | Send Money Tk 500.00 to 01544363937 is successful. Fee Tk 0.00. Current Balance Tk 3,000.00. TrxID UP5064334.
+[REAL-249] | REAL | MERCANTILE | One-Time Password (OTP) for your internet banking fund transfer of BDT 3,000.00 is 490109. Never share your OTP with anyone.
+[REAL-250] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-251] | REAL | AGRANIBANK | One-Time Password (OTP) for your internet banking fund transfer of BDT 50,000.00 is 565556. Never share your OTP with anyone.
+[REAL-252] | REAL | bKash | Payment Tk 500.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 50,000.00. TrxID EK1DCRPXFA.
+[REAL-253] | REAL | DBBL | Your DBBL A/C 101.620***564 has been debited by BDT 10,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 1,020.00. Helpline: 16216.
+[REAL-254] | REAL | SOUTHEAST | Alert: Your A/C 846***201 has been credited with BDT 25,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 8,500.00.
+[REAL-255] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 932349। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-256] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 50,000.00 is 834726. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-257] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 975355। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-258] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 712488। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-259] | REAL | BANKASIA | One-Time Password (OTP) for your internet banking fund transfer of BDT 15,200.00 is 581351. Never share your OTP with anyone.
+[REAL-260] | REAL | SONALIBANK | Alert: Your A/C 908***561 has been credited with BDT 1,020.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 2,450.00.
+[REAL-261] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 1,500.00 is 455147. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-262] | REAL | 16216 | Rocket: Cash-In Tk 10,000.00 from A/C 013539617729; Fee Tk 0.00; Balance Tk 1,500.00; TrxID 3705230145; Date 14-Nov-2026.
+[REAL-263] | REAL | DBBL | Your DBBL A/C 101.832***180 has been debited by BDT 15,200.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 500.00. Helpline: 16216.
+[REAL-264] | REAL | EXIMBANK | Alert: Your A/C 667***796 has been credited with BDT 25,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 15,200.00.
+[REAL-265] | REAL | NAGAD | Cash Out Tk 3,000.00 to 01327635826 successful. Fee Tk 18.50. Balance Tk 2,450.00. TrxID ME1JFFAY at 14/11/2026 14:15.
+[REAL-266] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 3,000.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID 7BY8NPL8XT। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-267] | REAL | CITYBANK | Dear Customer, BDT 1,020.00 has been spent on your City Bank Amex Card ending 1945 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-268] | REAL | UPAY | Send Money Tk 15,200.00 to 01846091034 is successful. Fee Tk 0.00. Current Balance Tk 25,000.00. TrxID UP3750007.
+[REAL-269] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 790554। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-270] | REAL | bKash | Cash In Tk 25,000.00 from 01690584613 successful. Fee Tk 0.00. Balance Tk 500.00. TrxID E9WC1AM8T5 at 14/11/2026 10:30.
+[REAL-271] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 792592। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-272] | REAL | AIBL | One-Time Password (OTP) for your internet banking fund transfer of BDT 1,020.00 is 161045. Never share your OTP with anyone.
+[REAL-273] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 500.00 is 473489. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-274] | REAL | PRIMEBANK | Alert: Your A/C 417***243 has been credited with BDT 50,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 500.00.
+[REAL-275] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050399***279 has been credited with BDT 8,500.00 on 14-NOV-26. Current Balance BDT 1,500.00. Islami Bank Bangladesh PLC.
+[REAL-276] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 15,200.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID 4VWR8EMMH3। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-277] | REAL | DBBL | Your DBBL A/C 101.968***115 has been debited by BDT 500.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 25,000.00. Helpline: 16216.
+[REAL-278] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 674399। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-279] | REAL | EBL | One-Time Password (OTP) for your internet banking fund transfer of BDT 8,500.00 is 477746. Never share your OTP with anyone.
+[REAL-280] | REAL | EXIMBANK | Alert: Your A/C 422***206 has been credited with BDT 1,020.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 500.00.
+[REAL-281] | REAL | CELLFIN | CellFin: Fund Transfer Tk 1,500.00 to A/C 2050667***879 successful. Fee Tk 0.00. Balance Tk 1,020.00. TrxID CF7892064.
+[REAL-282] | REAL | AGRANIBANK | Alert: Your A/C 360***887 has been credited with BDT 3,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 15,200.00.
+[REAL-283] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-284] | REAL | UPAY | Send Money Tk 5,000.00 to 01369413077 is successful. Fee Tk 0.00. Current Balance Tk 15,200.00. TrxID UP6295089.
+[REAL-285] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 1,500.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID MCJGDMF4WH। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-286] | REAL | bKash | Your bKash Verification Code is 723650. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-287] | REAL | bKash | Payment Tk 5,000.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 1,020.00. TrxID J9REPJWNHT.
+[REAL-288] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 164529। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-289] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 10,000.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID J4GZ9TEGLU। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-290] | REAL | DBBL | Your DBBL A/C 101.934***393 has been debited by BDT 5,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 1,020.00. Helpline: 16216.
+[REAL-291] | REAL | NAGAD | Cash Out Tk 50,000.00 to 01979742627 successful. Fee Tk 18.50. Balance Tk 8,500.00. TrxID 4GL7LXG1 at 14/11/2026 14:15.
+[REAL-292] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 50,000.00 is 443916. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-293] | REAL | bKash | Cash In Tk 15,200.00 from 01551843470 successful. Fee Tk 0.00. Balance Tk 3,000.00. TrxID LBD0GTKQ0G at 14/11/2026 10:30.
+[REAL-294] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 729470। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-295] | REAL | 16216 | Rocket: Cash-In Tk 5,000.00 from A/C 015415926369; Fee Tk 0.00; Balance Tk 15,200.00; TrxID 7762275552; Date 14-Nov-2026.
+[REAL-296] | REAL | DBBL | Your DBBL A/C 101.117***619 has been debited by BDT 15,200.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 15,200.00. Helpline: 16216.
+[REAL-297] | REAL | CELLFIN | CellFin: Fund Transfer Tk 10,000.00 to A/C 2050840***330 successful. Fee Tk 0.00. Balance Tk 3,000.00. TrxID CF1842856.
+[REAL-298] | REAL | CELLFIN | CellFin: Fund Transfer Tk 10,000.00 to A/C 2050491***610 successful. Fee Tk 0.00. Balance Tk 500.00. TrxID CF9830566.
+[REAL-299] | REAL | EXIMBANK | One-Time Password (OTP) for your internet banking fund transfer of BDT 5,000.00 is 595925. Never share your OTP with anyone.
+[REAL-300] | REAL | JAMUNABANK | Alert: Your A/C 814***897 has been credited with BDT 5,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 1,500.00.
+[REAL-301] | REAL | DBBL | Your DBBL A/C 101.440***215 has been debited by BDT 15,200.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 1,500.00. Helpline: 16216.
+[REAL-302] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 15,200.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID GFENGGQQ1G। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-303] | REAL | 16216 | Rocket: Cash-In Tk 10,000.00 from A/C 015761560939; Fee Tk 0.00; Balance Tk 3,000.00; TrxID 5439515159; Date 14-Nov-2026.
+[REAL-304] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 3,000.00 is 532743. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-305] | REAL | SCB | Alert: Your A/C 187***596 has been credited with BDT 1,500.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 500.00.
+[REAL-306] | REAL | PUBALIBANK | One-Time Password (OTP) for your internet banking fund transfer of BDT 50,000.00 is 173471. Never share your OTP with anyone.
+[REAL-307] | REAL | BRACBANK | BDT 3,000.00 credited to your BRAC Bank A/C 1501634***349 via BEFTN on 14-Nov-2026. Available Balance: BDT 10,000.00. Call 16221 for query.
+[REAL-308] | REAL | CELLFIN | CellFin: Fund Transfer Tk 8,500.00 to A/C 2050611***483 successful. Fee Tk 0.00. Balance Tk 3,000.00. TrxID CF5238048.
+[REAL-309] | REAL | SOUTHEAST | One-Time Password (OTP) for your internet banking fund transfer of BDT 1,500.00 is 811575. Never share your OTP with anyone.
+[REAL-310] | REAL | CELLFIN | CellFin: Fund Transfer Tk 5,000.00 to A/C 2050710***517 successful. Fee Tk 0.00. Balance Tk 1,020.00. TrxID CF6406984.
+[REAL-311] | REAL | 16216 | Rocket: Cash-In Tk 25,000.00 from A/C 013105664279; Fee Tk 0.00; Balance Tk 2,450.00; TrxID 8544428857; Date 14-Nov-2026.
+[REAL-312] | REAL | bKash | Your bKash Verification Code is 372258. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-313] | REAL | BRACBANK | BDT 15,200.00 credited to your BRAC Bank A/C 1501888***982 via BEFTN on 14-Nov-2026. Available Balance: BDT 1,020.00. Call 16221 for query.
+[REAL-314] | REAL | UPAY | Send Money Tk 15,200.00 to 01311659330 is successful. Fee Tk 0.00. Current Balance Tk 50,000.00. TrxID UP3617580.
+[REAL-315] | REAL | DBBL | Your DBBL A/C 101.926***918 has been debited by BDT 50,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 1,500.00. Helpline: 16216.
+[REAL-316] | REAL | BRACBANK | BDT 1,500.00 credited to your BRAC Bank A/C 1501352***719 via BEFTN on 14-Nov-2026. Available Balance: BDT 2,450.00. Call 16221 for query.
+[REAL-317] | REAL | PUBALIBANK | One-Time Password (OTP) for your internet banking fund transfer of BDT 3,000.00 is 221980. Never share your OTP with anyone.
+[REAL-318] | REAL | CITYBANK | Dear Customer, BDT 50,000.00 has been spent on your City Bank Amex Card ending 5090 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-319] | REAL | DBBL | Your DBBL A/C 101.363***942 has been debited by BDT 8,500.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 500.00. Helpline: 16216.
+[REAL-320] | REAL | BRACBANK | BDT 1,500.00 credited to your BRAC Bank A/C 1501871***699 via BEFTN on 14-Nov-2026. Available Balance: BDT 50,000.00. Call 16221 for query.
+[REAL-321] | REAL | NAGAD | Cash Out Tk 2,450.00 to 01981094803 successful. Fee Tk 18.50. Balance Tk 10,000.00. TrxID 06VKRRGX at 14/11/2026 14:15.
+[REAL-322] | REAL | SONALIBANK | Alert: Your A/C 342***485 has been credited with BDT 1,020.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 1,500.00.
+[REAL-323] | REAL | DBBL | Your DBBL A/C 101.975***779 has been debited by BDT 3,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 3,000.00. Helpline: 16216.
+[REAL-324] | REAL | 16216 | Rocket: Cash-In Tk 50,000.00 from A/C 018621566619; Fee Tk 0.00; Balance Tk 25,000.00; TrxID 7758182596; Date 14-Nov-2026.
+[REAL-325] | REAL | 16216 | Rocket: Cash-In Tk 8,500.00 from A/C 017953200559; Fee Tk 0.00; Balance Tk 25,000.00; TrxID 2129572230; Date 14-Nov-2026.
+[REAL-326] | REAL | MERCANTILE | Alert: Your A/C 975***694 has been credited with BDT 50,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 5,000.00.
+[REAL-327] | REAL | ONEBANK | Alert: Your A/C 314***136 has been credited with BDT 5,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 500.00.
+[REAL-328] | REAL | bKash | Cash In Tk 10,000.00 from 01975573960 successful. Fee Tk 0.00. Balance Tk 5,000.00. TrxID 1M3CR1WBJ8 at 14/11/2026 10:30.
+[REAL-329] | REAL | BRACBANK | BDT 3,000.00 credited to your BRAC Bank A/C 1501889***699 via BEFTN on 14-Nov-2026. Available Balance: BDT 50,000.00. Call 16221 for query.
+[REAL-330] | REAL | bKash | Cash In Tk 8,500.00 from 01777887030 successful. Fee Tk 0.00. Balance Tk 8,500.00. TrxID V3PMU6UJZX at 14/11/2026 10:30.
+[REAL-331] | REAL | NAGAD | Cash Out Tk 3,000.00 to 01597232442 successful. Fee Tk 18.50. Balance Tk 2,450.00. TrxID 00PVQ4M2 at 14/11/2026 14:15.
+[REAL-332] | REAL | 16216 | Rocket: Cash-In Tk 3,000.00 from A/C 016542524359; Fee Tk 0.00; Balance Tk 15,200.00; TrxID 7799443737; Date 14-Nov-2026.
+[REAL-333] | REAL | NAGAD | Cash Out Tk 2,450.00 to 01867689285 successful. Fee Tk 18.50. Balance Tk 8,500.00. TrxID TCFJM4VH at 14/11/2026 14:15.
+[REAL-334] | REAL | UPAY | Send Money Tk 3,000.00 to 01776961195 is successful. Fee Tk 0.00. Current Balance Tk 10,000.00. TrxID UP3590853.
+[REAL-335] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 962829। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-336] | REAL | NAGAD | Cash Out Tk 10,000.00 to 01640625997 successful. Fee Tk 18.50. Balance Tk 50,000.00. TrxID RK8R2LZY at 14/11/2026 14:15.
+[REAL-337] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 3,000.00 is 620075. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-338] | REAL | IBBL | Alert: Your A/C 839***946 has been credited with BDT 5,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 15,200.00.
+[REAL-339] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 500.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID TXKE896ZSB। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-340] | REAL | UPAY | Send Money Tk 5,000.00 to 01321854612 is successful. Fee Tk 0.00. Current Balance Tk 50,000.00. TrxID UP7213393.
+[REAL-341] | REAL | UPAY | Send Money Tk 1,020.00 to 01994396256 is successful. Fee Tk 0.00. Current Balance Tk 15,200.00. TrxID UP8481625.
+[REAL-342] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 8,500.00 is 181513. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-343] | REAL | TRUSTBANK | One-Time Password (OTP) for your internet banking fund transfer of BDT 500.00 is 940102. Never share your OTP with anyone.
+[REAL-344] | REAL | bKash | Payment Tk 1,020.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 5,000.00. TrxID 77F6ZX4VM6.
+[REAL-345] | REAL | EBL | EBL Alert: Purchase of BDT 15,200.00 at AARONG using EBL VISA Card 4321****5781 on 14/11/26. Available Balance: BDT 8,500.00.
+[REAL-346] | REAL | bKash | Payment Tk 10,000.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 3,000.00. TrxID USMT9W9EG4.
+[REAL-347] | REAL | bKash | Your bKash Verification Code is 147162. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-348] | REAL | bKash | Your bKash Verification Code is 204705. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-349] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-350] | REAL | EBL | One-Time Password (OTP) for your internet banking fund transfer of BDT 15,200.00 is 235566. Never share your OTP with anyone.
+[REAL-351] | REAL | CELLFIN | CellFin: Fund Transfer Tk 1,020.00 to A/C 2050780***600 successful. Fee Tk 0.00. Balance Tk 1,020.00. TrxID CF4769588.
+[REAL-352] | REAL | bKash | Payment Tk 2,450.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 500.00. TrxID A9S9B9JL6P.
+[REAL-353] | REAL | BANKASIA | One-Time Password (OTP) for your internet banking fund transfer of BDT 8,500.00 is 436660. Never share your OTP with anyone.
+[REAL-354] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 1,020.00 is 284392. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-355] | REAL | UPAY | Send Money Tk 15,200.00 to 01848898361 is successful. Fee Tk 0.00. Current Balance Tk 25,000.00. TrxID UP9084846.
+[REAL-356] | REAL | 16216 | Rocket: Cash-In Tk 10,000.00 from A/C 015931636659; Fee Tk 0.00; Balance Tk 3,000.00; TrxID 8947458915; Date 14-Nov-2026.
+[REAL-357] | REAL | bKash | Your bKash Verification Code is 925883. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-358] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 50,000.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID 0EGR0QRVB7। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-359] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 2,450.00 is 827518. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-360] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050496***891 has been credited with BDT 25,000.00 on 14-NOV-26. Current Balance BDT 50,000.00. Islami Bank Bangladesh PLC.
+[REAL-361] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050628***777 has been credited with BDT 10,000.00 on 14-NOV-26. Current Balance BDT 3,000.00. Islami Bank Bangladesh PLC.
+[REAL-362] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 15,200.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID QEK8QX10JE। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-363] | REAL | bKash | Payment Tk 1,020.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 1,020.00. TrxID DBPE47K1KW.
+[REAL-364] | REAL | SCB | Alert: Your A/C 228***267 has been credited with BDT 3,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 8,500.00.
+[REAL-365] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050193***666 has been credited with BDT 2,450.00 on 14-NOV-26. Current Balance BDT 10,000.00. Islami Bank Bangladesh PLC.
+[REAL-366] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050245***415 has been credited with BDT 500.00 on 14-NOV-26. Current Balance BDT 3,000.00. Islami Bank Bangladesh PLC.
+[REAL-367] | REAL | CITYBANK | Dear Customer, BDT 8,500.00 has been spent on your City Bank Amex Card ending 6933 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-368] | REAL | CITYBANK | Dear Customer, BDT 3,000.00 has been spent on your City Bank Amex Card ending 2172 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-369] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 8,500.00 is 778609. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-370] | REAL | NAGAD | Cash Out Tk 15,200.00 to 01346608754 successful. Fee Tk 18.50. Balance Tk 10,000.00. TrxID C93C0DBH at 14/11/2026 14:15.
+[REAL-371] | REAL | TRUSTBANK | One-Time Password (OTP) for your internet banking fund transfer of BDT 1,020.00 is 704212. Never share your OTP with anyone.
+[REAL-372] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 2,450.00 is 922954. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-373] | REAL | DBBL | Your DBBL A/C 101.107***550 has been debited by BDT 3,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 25,000.00. Helpline: 16216.
+[REAL-374] | REAL | NAGAD | Cash Out Tk 2,450.00 to 01384334687 successful. Fee Tk 18.50. Balance Tk 10,000.00. TrxID A1V2DEPM at 14/11/2026 14:15.
+[REAL-375] | REAL | ONEBANK | One-Time Password (OTP) for your internet banking fund transfer of BDT 25,000.00 is 483392. Never share your OTP with anyone.
+[REAL-376] | REAL | NCCBANK | Alert: Your A/C 462***379 has been credited with BDT 10,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 10,000.00.
+[REAL-377] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 314960। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-378] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 1,020.00 is 778572. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-379] | REAL | CELLFIN | CellFin: Fund Transfer Tk 15,200.00 to A/C 2050509***347 successful. Fee Tk 0.00. Balance Tk 1,020.00. TrxID CF9269003.
+[REAL-380] | REAL | CELLFIN | CellFin: Fund Transfer Tk 25,000.00 to A/C 2050696***233 successful. Fee Tk 0.00. Balance Tk 1,020.00. TrxID CF8672468.
+[REAL-381] | REAL | CELLFIN | CellFin: Fund Transfer Tk 1,020.00 to A/C 2050618***849 successful. Fee Tk 0.00. Balance Tk 5,000.00. TrxID CF6565962.
+[REAL-382] | REAL | BRACBANK | BDT 8,500.00 credited to your BRAC Bank A/C 1501555***957 via BEFTN on 14-Nov-2026. Available Balance: BDT 15,200.00. Call 16221 for query.
+[REAL-383] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 936048। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-384] | REAL | bKash | Payment Tk 15,200.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 15,200.00. TrxID GQXJHVM6PM.
+[REAL-385] | REAL | NAGAD | Cash Out Tk 8,500.00 to 01383304783 successful. Fee Tk 18.50. Balance Tk 2,450.00. TrxID 9YQMPAED at 14/11/2026 14:15.
+[REAL-386] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 1,020.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID QNXQ1XQEJ1। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-387] | REAL | 16216 | Rocket: Cash-In Tk 25,000.00 from A/C 016517339649; Fee Tk 0.00; Balance Tk 8,500.00; TrxID 9362773194; Date 14-Nov-2026.
+[REAL-388] | REAL | CELLFIN | CellFin: Fund Transfer Tk 3,000.00 to A/C 2050562***800 successful. Fee Tk 0.00. Balance Tk 10,000.00. TrxID CF9074806.
+[REAL-389] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-390] | REAL | SCB | Alert: Your A/C 414***565 has been credited with BDT 500.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 10,000.00.
+[REAL-391] | REAL | MERCANTILE | One-Time Password (OTP) for your internet banking fund transfer of BDT 5,000.00 is 461246. Never share your OTP with anyone.
+[REAL-392] | REAL | PRIMEBANK | One-Time Password (OTP) for your internet banking fund transfer of BDT 5,000.00 is 636546. Never share your OTP with anyone.
+[REAL-393] | REAL | bKash | Payment Tk 1,020.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 15,200.00. TrxID KFUKNSCLP2.
+[REAL-394] | REAL | CELLFIN | CellFin: Fund Transfer Tk 1,020.00 to A/C 2050881***644 successful. Fee Tk 0.00. Balance Tk 15,200.00. TrxID CF9608029.
+[REAL-395] | REAL | bKash | Your bKash Verification Code is 321889. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-396] | REAL | bKash | Cash In Tk 500.00 from 01961800990 successful. Fee Tk 0.00. Balance Tk 8,500.00. TrxID 8N71WNE7UA at 14/11/2026 10:30.
+[REAL-397] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 416502। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-398] | REAL | DBBL | Your DBBL A/C 101.179***728 has been debited by BDT 5,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 2,450.00. Helpline: 16216.
+[REAL-399] | REAL | NCCBANK | One-Time Password (OTP) for your internet banking fund transfer of BDT 5,000.00 is 294989. Never share your OTP with anyone.
+[REAL-400] | REAL | bKash | Your bKash Verification Code is 262765. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-401] | REAL | 16216 | Rocket: Cash-In Tk 10,000.00 from A/C 018189185109; Fee Tk 0.00; Balance Tk 2,450.00; TrxID 9174467549; Date 14-Nov-2026.
+[REAL-402] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 540222। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-403] | REAL | DHAKABANK | Alert: Your A/C 613***801 has been credited with BDT 50,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 25,000.00.
+[REAL-404] | REAL | BANKASIA | Alert: Your A/C 974***291 has been credited with BDT 3,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 50,000.00.
+[REAL-405] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-406] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 10,000.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID 1Y1BD84WSP। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-407] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 8,500.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID T3NXKG2UV8। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-408] | REAL | bKash | Cash In Tk 5,000.00 from 01791856659 successful. Fee Tk 0.00. Balance Tk 1,500.00. TrxID W2PUBJJUS6 at 14/11/2026 10:30.
+[REAL-409] | REAL | CELLFIN | CellFin: Fund Transfer Tk 10,000.00 to A/C 2050716***869 successful. Fee Tk 0.00. Balance Tk 3,000.00. TrxID CF3550593.
+[REAL-410] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 3,000.00 is 639741. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-411] | REAL | NAGAD | Cash Out Tk 3,000.00 to 01997312220 successful. Fee Tk 18.50. Balance Tk 8,500.00. TrxID 26Q9C6XN at 14/11/2026 14:15.
+[REAL-412] | REAL | bKash | Cash In Tk 50,000.00 from 01633608167 successful. Fee Tk 0.00. Balance Tk 500.00. TrxID EDDMNBDB3A at 14/11/2026 10:30.
+[REAL-413] | REAL | MTB | One-Time Password (OTP) for your internet banking fund transfer of BDT 5,000.00 is 582695. Never share your OTP with anyone.
+[REAL-414] | REAL | BRACBANK | BDT 25,000.00 credited to your BRAC Bank A/C 1501744***210 via BEFTN on 14-Nov-2026. Available Balance: BDT 8,500.00. Call 16221 for query.
+[REAL-415] | REAL | bKash | Your bKash Verification Code is 831884. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-416] | REAL | CITYBANK | Dear Customer, BDT 8,500.00 has been spent on your City Bank Amex Card ending 1397 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-417] | REAL | 16216 | Rocket: Cash-In Tk 15,200.00 from A/C 016843012859; Fee Tk 0.00; Balance Tk 50,000.00; TrxID 9910883855; Date 14-Nov-2026.
+[REAL-418] | REAL | UPAY | Send Money Tk 2,450.00 to 01558659008 is successful. Fee Tk 0.00. Current Balance Tk 3,000.00. TrxID UP8650622.
+[REAL-419] | REAL | BRACBANK | BDT 10,000.00 credited to your BRAC Bank A/C 1501918***438 via BEFTN on 14-Nov-2026. Available Balance: BDT 500.00. Call 16221 for query.
+[REAL-420] | REAL | EBL | EBL Alert: Purchase of BDT 2,450.00 at AARONG using EBL VISA Card 4321****9281 on 14/11/26. Available Balance: BDT 10,000.00.
+[REAL-421] | REAL | EBL | EBL Alert: Purchase of BDT 1,020.00 at AARONG using EBL VISA Card 4321****2084 on 14/11/26. Available Balance: BDT 8,500.00.
+[REAL-422] | REAL | 16216 | Rocket: Cash-In Tk 8,500.00 from A/C 015146213679; Fee Tk 0.00; Balance Tk 50,000.00; TrxID 9375476385; Date 14-Nov-2026.
+[REAL-423] | REAL | bKash | Cash In Tk 500.00 from 01719105076 successful. Fee Tk 0.00. Balance Tk 25,000.00. TrxID 4GT06K0PVK at 14/11/2026 10:30.
+[REAL-424] | REAL | UPAY | Send Money Tk 50,000.00 to 01919500048 is successful. Fee Tk 0.00. Current Balance Tk 500.00. TrxID UP9439612.
+[REAL-425] | REAL | BRACBANK | BDT 2,450.00 credited to your BRAC Bank A/C 1501429***977 via BEFTN on 14-Nov-2026. Available Balance: BDT 15,200.00. Call 16221 for query.
+[REAL-426] | REAL | 16216 | Rocket: Cash-In Tk 8,500.00 from A/C 017238055109; Fee Tk 0.00; Balance Tk 50,000.00; TrxID 9883233843; Date 14-Nov-2026.
+[REAL-427] | REAL | bKash | Payment Tk 5,000.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 2,450.00. TrxID 4MF1F7ZFWS.
+[REAL-428] | REAL | NAGAD | Cash Out Tk 2,450.00 to 01543147079 successful. Fee Tk 18.50. Balance Tk 1,020.00. TrxID 95PE0G8J at 14/11/2026 14:15.
+[REAL-429] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050254***182 has been credited with BDT 25,000.00 on 14-NOV-26. Current Balance BDT 50,000.00. Islami Bank Bangladesh PLC.
+[REAL-430] | REAL | bKash | Cash In Tk 3,000.00 from 01931786900 successful. Fee Tk 0.00. Balance Tk 1,500.00. TrxID 400W0PG7V2 at 14/11/2026 10:30.
+[REAL-431] | REAL | CELLFIN | CellFin: Fund Transfer Tk 3,000.00 to A/C 2050178***885 successful. Fee Tk 0.00. Balance Tk 3,000.00. TrxID CF4522417.
+[REAL-432] | REAL | bKash | Your bKash Verification Code is 468719. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-433] | REAL | 16216 | Rocket: Cash-In Tk 50,000.00 from A/C 019733329859; Fee Tk 0.00; Balance Tk 2,450.00; TrxID 2873918147; Date 14-Nov-2026.
+[REAL-434] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 2,450.00 is 762067. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-435] | REAL | 16216 | Rocket: Cash-In Tk 5,000.00 from A/C 015767683419; Fee Tk 0.00; Balance Tk 50,000.00; TrxID 3153438111; Date 14-Nov-2026.
+[REAL-436] | REAL | EXIMBANK | Alert: Your A/C 906***597 has been credited with BDT 2,450.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 1,500.00.
+[REAL-437] | REAL | bKash | Cash In Tk 1,020.00 from 01971678439 successful. Fee Tk 0.00. Balance Tk 2,450.00. TrxID TTEKGJVG6U at 14/11/2026 10:30.
+[REAL-438] | REAL | PRIMEBANK | One-Time Password (OTP) for your internet banking fund transfer of BDT 8,500.00 is 403196. Never share your OTP with anyone.
+[REAL-439] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-440] | REAL | BRACBANK | BDT 15,200.00 credited to your BRAC Bank A/C 1501294***576 via BEFTN on 14-Nov-2026. Available Balance: BDT 1,020.00. Call 16221 for query.
+[REAL-441] | REAL | BRACBANK | BDT 15,200.00 credited to your BRAC Bank A/C 1501432***272 via BEFTN on 14-Nov-2026. Available Balance: BDT 5,000.00. Call 16221 for query.
+[REAL-442] | REAL | MTB | Mutual Trust Bank: OTP for your online transaction of BDT 1,020.00 is 765320. Valid for 3 mins. Do not share OTP with anyone. Helpline: 16219.
+[REAL-443] | REAL | UPAY | Send Money Tk 1,020.00 to 01972052210 is successful. Fee Tk 0.00. Current Balance Tk 50,000.00. TrxID UP9736487.
+[REAL-444] | REAL | bKash | Your bKash Verification Code is 850202. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-445] | REAL | DBBL | Your DBBL A/C 101.594***671 has been debited by BDT 50,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 5,000.00. Helpline: 16216.
+[REAL-446] | REAL | bKash | Your bKash Verification Code is 915009. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-447] | REAL | UPAY | Send Money Tk 500.00 to 01592082296 is successful. Fee Tk 0.00. Current Balance Tk 8,500.00. TrxID UP4405615.
+[REAL-448] | REAL | bKash | Cash In Tk 15,200.00 from 01775973844 successful. Fee Tk 0.00. Balance Tk 1,020.00. TrxID SDED6MLH3B at 14/11/2026 10:30.
+[REAL-449] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-450] | REAL | bKash | Payment Tk 500.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 50,000.00. TrxID KSUZTBLXTS.
+[REAL-451] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-452] | REAL | UPAY | Send Money Tk 1,500.00 to 01662368342 is successful. Fee Tk 0.00. Current Balance Tk 5,000.00. TrxID UP6442187.
+[REAL-453] | REAL | EBL | EBL Alert: Purchase of BDT 25,000.00 at AARONG using EBL VISA Card 4321****3810 on 14/11/26. Available Balance: BDT 1,020.00.
+[REAL-454] | REAL | bKash | Cash In Tk 500.00 from 01332910196 successful. Fee Tk 0.00. Balance Tk 10,000.00. TrxID QSWUZWPJ2J at 14/11/2026 10:30.
+[REAL-455] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 778203। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-456] | REAL | NAGAD | Cash Out Tk 1,020.00 to 01921085663 successful. Fee Tk 18.50. Balance Tk 15,200.00. TrxID AHKQLAUJ at 14/11/2026 14:15.
+[REAL-457] | REAL | UPAY | Send Money Tk 8,500.00 to 01714174486 is successful. Fee Tk 0.00. Current Balance Tk 500.00. TrxID UP9244670.
+[REAL-458] | REAL | SONALIBANK | One-Time Password (OTP) for your internet banking fund transfer of BDT 8,500.00 is 617604. Never share your OTP with anyone.
+[REAL-459] | REAL | 16247 | প্রিয় গ্রাহক, বিকাশ-এ আপনার বিদ্যুৎ বিল (DESCO) 10,000.00 টাকা সফলভাবে পরিশোধ হয়েছে। TrxID FGJRX4LVKR। যেকোনো প্রয়োজনে কল করুন ১৬২৪৭।
+[REAL-460] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050394***168 has been credited with BDT 10,000.00 on 14-NOV-26. Current Balance BDT 15,200.00. Islami Bank Bangladesh PLC.
+[REAL-461] | REAL | DBBL | Your DBBL A/C 101.282***856 has been debited by BDT 5,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 8,500.00. Helpline: 16216.
+[REAL-462] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050790***256 has been credited with BDT 10,000.00 on 14-NOV-26. Current Balance BDT 10,000.00. Islami Bank Bangladesh PLC.
+[REAL-463] | REAL | JANATABANK | One-Time Password (OTP) for your internet banking fund transfer of BDT 2,450.00 is 768103. Never share your OTP with anyone.
+[REAL-464] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050907***946 has been credited with BDT 1,500.00 on 14-NOV-26. Current Balance BDT 15,200.00. Islami Bank Bangladesh PLC.
+[REAL-465] | REAL | DBBL | Alert: Your A/C 484***548 has been credited with BDT 50,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 2,450.00.
+[REAL-466] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-467] | REAL | DBBL | Your DBBL A/C 101.401***724 has been debited by BDT 10,000.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 5,000.00. Helpline: 16216.
+[REAL-468] | REAL | DBBL | Your DBBL A/C 101.990***418 has been debited by BDT 8,500.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 25,000.00. Helpline: 16216.
+[REAL-469] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050414***977 has been credited with BDT 8,500.00 on 14-NOV-26. Current Balance BDT 25,000.00. Islami Bank Bangladesh PLC.
+[REAL-470] | REAL | BRACBANK | BDT 50,000.00 credited to your BRAC Bank A/C 1501935***801 via BEFTN on 14-Nov-2026. Available Balance: BDT 500.00. Call 16221 for query.
+[REAL-471] | REAL | BRACBANK | BDT 1,020.00 credited to your BRAC Bank A/C 1501109***376 via BEFTN on 14-Nov-2026. Available Balance: BDT 10,000.00. Call 16221 for query.
+[REAL-472] | REAL | CITYBANK | Dear Customer, BDT 50,000.00 has been spent on your City Bank Amex Card ending 3003 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-473] | REAL | NAGAD | আপনার নগদ ওটিপি (OTP) হলো 301750। প্রতারণা এড়াতে আপনার পিন ও ওটিপি কখনোই কারো সাথে শেয়ার করবেন না।
+[REAL-474] | REAL | bKash | Your bKash Verification Code is 970186. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-475] | REAL | IBBL | Assalamu Alaikum. Your A/C 2050830***631 has been credited with BDT 1,500.00 on 14-NOV-26. Current Balance BDT 500.00. Islami Bank Bangladesh PLC.
+[REAL-476] | REAL | SONALIBANK | Alert: Your A/C 590***968 has been credited with BDT 1,500.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 3,000.00.
+[REAL-477] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-478] | REAL | NAGAD | Cash Out Tk 10,000.00 to 01932665396 successful. Fee Tk 18.50. Balance Tk 1,500.00. TrxID MP3NEA3H at 14/11/2026 14:15.
+[REAL-479] | REAL | CITYBANK | Dear Customer, BDT 3,000.00 has been spent on your City Bank Amex Card ending 5395 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-480] | REAL | DBBL | Your DBBL A/C 101.275***632 has been debited by BDT 1,500.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 15,200.00. Helpline: 16216.
+[REAL-481] | REAL | BRACBANK | BDT 2,450.00 credited to your BRAC Bank A/C 1501186***421 via BEFTN on 14-Nov-2026. Available Balance: BDT 10,000.00. Call 16221 for query.
+[REAL-482] | REAL | EBL | EBL Alert: Purchase of BDT 10,000.00 at AARONG using EBL VISA Card 4321****8301 on 14/11/26. Available Balance: BDT 50,000.00.
+[REAL-483] | REAL | CITYBANK | Dear Customer, BDT 15,200.00 has been spent on your City Bank Amex Card ending 2563 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-484] | REAL | NAGAD | Cash Out Tk 25,000.00 to 01845032020 successful. Fee Tk 18.50. Balance Tk 5,000.00. TrxID 0WSN4Z9S at 14/11/2026 14:15.
+[REAL-485] | REAL | DBBL | Your DBBL A/C 101.135***761 has been debited by BDT 1,500.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 500.00. Helpline: 16216.
+[REAL-486] | REAL | NCCBANK | Alert: Your A/C 341***537 has been credited with BDT 3,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 2,450.00.
+[REAL-487] | REAL | UPAY | Send Money Tk 1,500.00 to 01556320195 is successful. Fee Tk 0.00. Current Balance Tk 50,000.00. TrxID UP4233534.
+[REAL-488] | REAL | bKash | Payment Tk 2,450.00 to DARAZ BANGLADESH LTD is successful. Counter 1. Fee Tk 0.00. Balance Tk 5,000.00. TrxID NGBVUPG3E5.
+[REAL-489] | REAL | DBBL | Your DBBL A/C 101.106***416 has been debited by BDT 15,200.00 for ATM Cash Withdrawal on 14-NOV-26. Avl Bal: BDT 15,200.00. Helpline: 16216.
+[REAL-490] | REAL | CITYBANK | Dear Customer, BDT 50,000.00 has been spent on your City Bank Amex Card ending 7847 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-491] | REAL | NAGAD | Cash Out Tk 25,000.00 to 01394692958 successful. Fee Tk 18.50. Balance Tk 25,000.00. TrxID 0ZY09420 at 14/11/2026 14:15.
+[REAL-492] | REAL | bKash | Your bKash Verification Code is 699658. Never share this code with anyone. bKash officials never ask for your PIN or Verification Code.
+[REAL-493] | REAL | UPAY | Send Money Tk 500.00 to 01931391899 is successful. Fee Tk 0.00. Current Balance Tk 1,500.00. TrxID UP7388478.
+[REAL-494] | REAL | BRACBANK | BDT 15,200.00 credited to your BRAC Bank A/C 1501917***329 via BEFTN on 14-Nov-2026. Available Balance: BDT 50,000.00. Call 16221 for query.
+[REAL-495] | REAL | CITYBANK | Dear Customer, BDT 25,000.00 has been spent on your City Bank Amex Card ending 4020 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
+[REAL-496] | REAL | UCB | Alert: Your A/C 915***449 has been credited with BDT 25,000.00 on 14-Nov-2026 via NPSB. Available Balance: BDT 5,000.00.
+[REAL-497] | REAL | EBL | EBL Alert: Purchase of BDT 15,200.00 at AARONG using EBL VISA Card 4321****7940 on 14/11/26. Available Balance: BDT 8,500.00.
+[REAL-498] | REAL | bKash | সতর্ক থাকুন! বিকাশ কর্মী কখনোই আপনার পিন, ওটিপি বা ভেরিফিকেশন কোড জানতে চায় না। প্রতারক চক্র থেকে সাবধান থাকুন। হেল্পলাইন: ১৬২৪৭।
+[REAL-499] | REAL | NAGAD | Cash Out Tk 1,020.00 to 01545536147 successful. Fee Tk 18.50. Balance Tk 5,000.00. TrxID FVB73R0P at 14/11/2026 14:15.
+[REAL-500] | REAL | CITYBANK | Dear Customer, BDT 8,500.00 has been spent on your City Bank Amex Card ending 6164 at SHWAPNO DHAKA. Avl Limit: BDT 85,000.00.
